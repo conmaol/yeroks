@@ -44,7 +44,7 @@ There is another example in the footnotes to page 2:<a id="fn-2-5-i"></a>
 
 > (fn. 5 (i))
 >
-> ye[nuhwe?](../verbs/n/nuhwe_.md)s ne athere? ‘she likes the basket’
+> ye[nuhwe?](../verbs/n/nuhwe_.md)s ne [athere?](../nouns/a/athere_.md) ‘she likes the basket’
 > 
 > yenuhwe?s ‘she likes it’
 
