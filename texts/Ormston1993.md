@@ -40,15 +40,18 @@ Transcription conventions:
 
 > Ra[nuhwe?](../verbs/n/nuhwe_.md)s. ‘he likes it’
 
-mmm
+There is another example in the footnotes to page 2:<a id="fn-2-5-i"></a>
 
-[p. 2 fn. 5 ex (i)]
-
+> (fn. 5 (i))
+>
 > ye[nuhwe?](../verbs/n/nuhwe_.md)s ne athere? ‘she likes the basket’
-> ye[nuhwe?](../verbs/n/nuhwe_.md)s ‘she likes it’
+> 
+> yenuhwe?s ‘she likes it’
 
+Object nouns may be incorporated.
 
-(ex. 1.2)
+(ex. 1.2)<a id="ex-1-2"></a>
+
 
 
 ### 1.2. The structure
