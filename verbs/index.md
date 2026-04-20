@@ -1,5 +1,6 @@
 # Verbs
 
+- **[·nuhweʔ·](n/nuhwe_.md)** ‘like’
 
 
 ----
