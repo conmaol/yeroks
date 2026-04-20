@@ -52,7 +52,7 @@ Object nouns may be incorporated.
 
 (ex. 1.2)<a id="ex-1-2"></a>
 
-> (a) Wa?k[hninu]()? ne ka[nakt]()a?. ‘I bought the/a bed.’ 
+> (a) [Wa?khninu?](../verbs/h/hninu.md) ne [kanakta?](../nouns/n/nakt.md). ‘I bought the/a bed.’ 
 >
 > (b) Wa?ke[nakt]()a[hninu]()?. ‘I bed-bought.’
 
