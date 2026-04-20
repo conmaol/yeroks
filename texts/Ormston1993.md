@@ -4,7 +4,7 @@
 
 (1.1 i)
 
-> Sak ra[nuhwe?](../verbs/nuhwe_.md)s akotya?tawi. ‘Sak likes her dress’
+> Sak ra[nuhwe?](../verbs/n/nuhwe_.md)s akotya?tawi. ‘Sak likes her dress’
 
 ----
 
