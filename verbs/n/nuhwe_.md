@@ -14,7 +14,7 @@ Examples:
 > 
 > Ra<mark>nuhweʔ</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it’)*
 > 
-> Ye<mark>nuhweʔ</mark>s ne [athere](../../nouns/a/athere_.md)?. *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) ‘she likes the basket’)*
+> Ye<mark>nuhweʔ</mark>s ne [athereʔ](../../nouns/a/athere_.md). *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) ‘she likes the basket’)*
 > 
 > Ye<mark>nuhweʔ</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) ‘she likes it’)*
 
