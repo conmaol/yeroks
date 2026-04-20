@@ -4,7 +4,7 @@
 
 Examples:
 
-> <mark>Waʔ</mark>[khninuʔ](../h/hninu.md) ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993#ex-1-2) – ‘I bought the/a bed.’)* 
+> <mark>Waʔ</mark>[khninuʔ](../h/hninu.md) ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
 ----
 
