@@ -1,13 +1,19 @@
 # ·nuhweʔ·
 
-`·nuhweʔ·` ‘like’ is a transitive verb.
+`·nuhweʔ·` ‘like’ is a transitive [verb](../index.md).
 
-Examples:
+### ·nuhweʔs (habitual)
 
-- ranuhwe?s
+Masculine singular subject
+
+> ranuhweʔs ‘he likes it’ (p.3)
     - ra-nuhweʔ-s
+
     - MASC.SG.SBJ(.FEM.SG.OBJ?)-like-HAB
     - he likes it (p.3)
+
+Feminine singular subject
+
 - yenuhweʔs
     - ye-nuhweʔ-s
     - FEM.SG.SBJ.NEUT.SG.OBJ-like-HAB
