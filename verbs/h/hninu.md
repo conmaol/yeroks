@@ -6,7 +6,7 @@
 
 #### waʔ[k](../prefixes/k.md)hninuʔ ‘I bought it’ 
 
-> <mark>Waʔkhninuʔ</mark> ne [kanaktaʔ](../nouns/n/nakt.md). *([Ormston 1993](../../texts/Ormston1993#ex-1-2) – ‘I bought the/a bed.’)* 
+> <mark>Waʔkhninuʔ</mark> ne [kanaktaʔ](../nouns/n/nakt.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
 
 
