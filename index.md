@@ -3,5 +3,5 @@
 - [Verbs](verbs/index.md)
 - Nouns
 
-- [Texts](text/index.md)
+- [Texts](texts/index.md)
 - 
