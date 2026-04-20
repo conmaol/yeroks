@@ -18,7 +18,7 @@ Transcription conventions:
 
 \[p. 2\]
 
-(ex. 1.1)
+(ex. 1.1)<a id="ex-1-1"></a>
 
 (a) all possible word orders are permitted
 
