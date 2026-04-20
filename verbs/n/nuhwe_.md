@@ -2,7 +2,7 @@
 
 `·nuhweʔ·` ‘like’ is a transitive [verb](../index.md).
 
-### ·nuhweʔs (habitual)
+### ·nuhweʔ[s](../suffixes/s.md) (habitual)
 
 #### [ra](../prefixes/ra.md)nuhweʔs ‘he likes it’
 
