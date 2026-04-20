@@ -8,6 +8,10 @@
 - <mark>yenuhweʔs</mark> ‘she likes it’
 - <mark>ruwanuhweʔs</mark> ‘she likes him’
 
+Examples:
+
+> Sak ra<mark>nuhwe?</mark>s ako[tya?tawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md) – ‘Sak likes her dress’)*
+
 ----
 
 Back up to: [Verbs](../index.md) | [Top](../../index.md)
