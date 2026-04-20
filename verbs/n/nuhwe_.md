@@ -10,7 +10,7 @@
 
 Examples:
 
-> Sak ra<mark>nuhweʔ</mark>s ako[tyaʔtawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
+> Sak [ra](../prefixes/ra.md)<mark>nuhweʔ</mark>s ako[tyaʔtawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
 > 
 > Ra<mark>nuhweʔ</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it’)*
 > 
