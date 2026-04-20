@@ -10,9 +10,13 @@
 
 Examples:
 
-> Sak ra<mark>nuhwe?</mark>s ako[tya?tawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
->
-> Ra<mark>nuhwe?</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it’)*
+> Sak ra<mark>nuhweʔ</mark>s ako[tyaʔtawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
+> 
+> Ra<mark>nuhweʔ</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it’)*
+> 
+> Ye<mark>nuhweʔ</mark>s ne athere?. *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) ‘she likes the basket’)*
+> 
+> Ye<mark>nuhweʔ</mark>s. *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) ‘she likes it’)*
 
 ----
 
