@@ -11,6 +11,7 @@ https://escholarship.mcgill.ca/concern/theses/1544bq22f
 (a)
 
 > (i) Sak ra[nuhwe?](../verbs/n/nuhwe_.md)s ako[tya?tawi](../nouns/a/atya_tawi.md). ‘Sak likes her dress’
+> 
 > (ii) Ranuhwe?s Sak akotya?tawi. ‘Sak likes her dress’
 
 (iii)
