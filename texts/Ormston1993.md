@@ -56,6 +56,9 @@ Object nouns may be incorporated.
 >
 > (b) Wa?ke[nakt]()a[hninu]()?. ‘I bed-bought.’
 
+Noun incorporation is quite common in Mohawk; it is limited to direct object (theme) arguments.
+
+The agreement paradigm is extremely complex, involving ...
 
 ### 1.2. The structure
 
