@@ -2,11 +2,13 @@
 
 `·hninu·` ‘buy’ is a transitive [verb](../index.md).
 
-> [Wa?khninu?](../verbs/h/hninu.md) ne [kanakta?](../nouns/n/nakt.md). *([Ormston 1993](../../texts/Ormston1993#ex-1-2) – ‘I bought the/a bed.’)* 
+
+> Wa?khninu? ne [kanakta?](../nouns/n/nakt.md). *([Ormston 1993](../../texts/Ormston1993#ex-1-2) – ‘I bought the/a bed.’)* 
 
 
+Examples with incorporated object nouns:
 
-> Wa?ke[nakt]()a[hninu]()?. ‘I bed-bought.’
+> Wa?ke[nakt]()ahninu?. ‘I bed-bought.’
 
 ----
 
