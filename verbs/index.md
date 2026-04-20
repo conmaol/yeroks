@@ -4,7 +4,7 @@ Stems:
 - **[·nuhweʔ·](n/nuhwe_.md)** ‘like’
 
 Prefixes:
-- **[ra-](prefixes/ra_.md)** \[masculine singular subject\]
+- **[ra·](prefixes/ra.md)** \[masculine singular subject\]
 
 
 ----
