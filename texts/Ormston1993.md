@@ -22,7 +22,7 @@ Transcription conventions:
 
 (a) all possible word orders are permitted
 
-> (i) Sak ra[nuhwe?](../verbs/n/nuhwe_.md)s ako[tya?tawi](../nouns/a/atya_tawi.md). ‘Sak likes her dress’
+> (i) Sak [ranuhwe?s](../verbs/n/nuhwe_.md) [akotya?tawi](../nouns/a/atya_tawi.md). ‘Sak likes her dress’
 > 
 > (ii) Ranuhwe?s Sak akotya?tawi.
 > 
@@ -38,7 +38,7 @@ Transcription conventions:
 
 (b) the NPs may be omitted
 
-> Ra[nuhwe?](../verbs/n/nuhwe_.md)s. ‘he likes it’
+> [Ranuhwe?s](../verbs/n/nuhwe_.md). ‘he likes it’
 
 There is another example in the footnotes to page 2:<a id="fn-2-5-i"></a>
 
