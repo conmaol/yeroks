@@ -6,6 +6,8 @@ Stems:
 Prefixes:
 - **[ra·](prefixes/ra.md)** \[masculine singular subject\]
 
+Suffixes:
+- **[·s](suffixes/s.md)** \[habitual aspect\]
 
 ----
 Back up to: [Top](../index.md)
