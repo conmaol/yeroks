@@ -4,7 +4,7 @@
 
 Examples:
 
-> Sak <mark>ra</mark>[nuhweʔ](../n/nuhwe_.md)s akotyaʔtawi. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
+> Sak <mark>ra</mark>[nuhweʔs](../n/nuhwe_.md) akotyaʔtawi. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
 > 
 > <mark>Ra</mark>nuhweʔs. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it’)*
 
