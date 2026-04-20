@@ -1,7 +1,6 @@
 # Yeroks
 
 - [Verbs](verbs/index.md)
-- Nouns
-
+- [Nouns](nouns/index.md)
 - [Texts](texts/index.md)
 - 
