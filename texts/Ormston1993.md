@@ -16,25 +16,25 @@ https://escholarship.mcgill.ca/concern/theses/1544bq22f
 
 (ii)
 
-> Ra[nuhwe?](../verbs/n/nuhwe_.md)s Sak akotya?tawi. ‘Sak likes her dress’
+> Ranuhwe?s Sak akotya?tawi. ‘Sak likes her dress’
 
 (iii)
 
-> Sak akotya?tawi ra[nuhwe?](../verbs/n/nuhwe_.md)s. ‘Sak likes her dress’
+> Sak akotya?tawi ranuhwe?s. ‘Sak likes her dress’
 
 (iv)
 
-> Ra[nuhwe?](../verbs/n/nuhwe_.md)s akotya?tawi ne Sak. ‘Sak likes her dress’
+> Ranuhwe?s akotya?tawi ne Sak. ‘Sak likes her dress’
 
 (v)
 
-> Akotya?tawi ra[nuhwe?](../verbs/n/nuhwe_.md)s ne Sak. ‘Sak likes her dress’
+> Akotya?tawi ranuhwe?s ne Sak. ‘Sak likes her dress’
 
 [p. 3]
 
 (vi)
 
-> Akotya?tawi Sak ra[nuhwe?](../verbs/n/nuhwe_.md)s. ‘Sak likes her dress’
+> Akotya?tawi Sak ranuhwe?s. ‘Sak likes her dress’
 
 (b)
 
