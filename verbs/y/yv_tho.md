@@ -1,6 +1,6 @@
 # ·yvʔtho·
 
-`·yvʔtho·` ‘plant’ is an (intransitive, subject-agreement) [verb](../index.md).
+`·yvʔtho·` ‘plant’ is an intransitive, subject-agreement [verb](../index.md).
 
 Examples:
 
