@@ -61,7 +61,7 @@ Noun incorporation is quite common in Mohawk; it is limited to direct object (th
 The agreement paradigm is extremely complex, involving:
 - four third-person genders — masculine, feminine, zoic, neuter
 - three non-third persons — first-person inclusive, first-person exclusive, second-person
-- three nurnber distinctions — singular, dual, plural.
+- three number distinctions — singular, dual, plural.
 
 The paradigm is traditionally divided into three sets: 
 - subjective agreements
@@ -76,23 +76,15 @@ Intransitive verbs are marked with either ‘subjective’ or ‘objective’ ag
 
 (a) subjective agreements
 
-> (i) tyv?thos ‘I plant’
-
-> (ii) yeroks
-    - ye-rok-s
-    - FEM.SG.SBJ-chop-HAB
-    - she chops (p.4)
+> (i) [tyv?thos](../verbs/y/yv_tho.md) ‘I plant’
+>
+> (ii) [yeroks](../verbs/r/rok.md) ‘she chops’
 
 (b) objective agreements
 
-- wahoyo?tv?
-    - wa-ho-yo?tv-?
-    - FACT-MASC.SG.OBJ-work-PUNC
-    - he worked (p.4)
-- rota?s
-    - ro-ita?-s
-    - MASC.SG.OBJ-sleep-HAB
-    - he sleeps (p.4)
+> (i) [wahoyo?tv?](../verbs/y/yo_tv.md) ‘he worked’
+>
+> (ii) [rota?s](../verbs/i/ita_.md) ‘he sleeps’
 
 Transitive vrebs show transitive agreement, except when they have a neuter third person argument. Third person neuler agreement is not marked; a transitive verb with a third person neuter abject will show the same agreement as an intransitive verb with the same subject argument, and a transitive verb with a third person neuter subject will show the same agreement as an intransitive verb which takes objective prefixes.
 
