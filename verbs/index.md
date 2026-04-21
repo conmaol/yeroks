@@ -1,8 +1,9 @@
 # Verbs
 
 Stems:
-- **[·hninu·](h/hninu.md)** ‘buy’
-- **[·nuhweʔ·](n/nuhwe_.md)** ‘like’
+- **[·hninu·](h/hninu.md)** *tr.* ‘buy’
+- **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
+- **[·yvʔtho·](y/yv_tho.md)** *intr.sbj.* ‘plant’
 
 Agreement prefixes:
 - **[ra·](prefixes/ra.md)** \[masculine singular subject\]
