@@ -68,7 +68,40 @@ The paradigm is traditionally divided into three sets:
 - objective agreements
 - transitive agreements.
 
+\[p. 4\]
+
 Intransitive verbs are marked with either ‘subjective’ or ‘objective’ agreements, depending on their lexical properties.
+
+(ex. 1.3)<a id="ex-1-3"></a>
+
+(a) subjective agreements
+
+> (i) tyv?thos ‘I plant’
+
+> (ii) yeroks
+    - ye-rok-s
+    - FEM.SG.SBJ-chop-HAB
+    - she chops (p.4)
+
+(b) objective agreements
+
+- wahoyo?tv?
+    - wa-ho-yo?tv-?
+    - FACT-MASC.SG.OBJ-work-PUNC
+    - he worked (p.4)
+- rota?s
+    - ro-ita?-s
+    - MASC.SG.OBJ-sleep-HAB
+    - he sleeps (p.4)
+
+Transitive vrebs show transitive agreement, except when they have a neuter third person argument. Third person neuler agreement is not marked; a transitive verb with a third person neuter abject will show the same agreement as an intransitive verb with the same subject argument, and a transitive verb with a third person neuter subject will show the same agreement as an intransitive verb which takes objective prefixes.
+
+(ex. 1.4)<a id="ex-1-4"></a>
+
+- ruwanuhwe?s
+    - ruwa-nuhwe?-s
+    - FEM.SG.SBJ-like-HAB
+    - she likes him (p.4)
 
 ### 1.2. The structure
 
