@@ -1,6 +1,6 @@
 # ·nakt·
 
-`·nakt·` ‘bed’ is a [noun](../index.md).
+`·nakt·` ‘a bed’ is a [noun](../index.md).
 
 Examples:
 
