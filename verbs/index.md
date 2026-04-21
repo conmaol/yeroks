@@ -13,6 +13,7 @@ Agreement prefixes:
 - **[ruwa·](prefixes/ruwa.md)** \[feminine singular subject, masculine singular object\]
 - **[k·](prefixes/k.md)** \[first person singular subject\]
 - **[t·](prefixes/t.md)** \[first person singular subject\]
+- **[ho·](prefixes/ho.md)** \[masculine singular object\]
 
 Mood prefixes:
 - **[waʔ·](prefixes/wa_.md)** \[factive mood\]
