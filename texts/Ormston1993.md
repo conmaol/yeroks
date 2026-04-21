@@ -58,7 +58,17 @@ Object nouns may be incorporated.
 
 Noun incorporation is quite common in Mohawk; it is limited to direct object (theme) arguments.
 
-The agreement paradigm is extremely complex, involving ...
+The agreement paradigm is extremely complex, involving:
+- four third-person genders — masculine, feminine, zoic, neuter
+- three non-third persons — first-person inclusive, first-person exclusive, second-person
+- three nurnber distinctions — singular, dual, plural.
+
+The paradigm is traditionally divided into three sets: 
+- subjective agreements
+- objective agreements
+- transitive agreements.
+
+Intransitive verbs are marked with either ‘subjective’ or ‘objective’ agreements, depending on their lexical properties.
 
 ### 1.2. The structure
 
