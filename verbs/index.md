@@ -2,6 +2,7 @@
 
 Stems:
 - **[·hninu·](h/hninu.md)** *tr.* ‘buy’
+- **[·itaʔ·](i/ita_.md)** *intr.obj.* ‘sleep’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
 - **[·yoʔtv·](y/yo_tv.md)** *intr.obj.* ‘work’
