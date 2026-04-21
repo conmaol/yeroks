@@ -4,7 +4,7 @@
 
 ### [wa](../prefixes/wa_.md)hoyoʔtv[ʔ](../suffixes/_.md) (factual punctual)
 
-#### wa[ho]()yoʔtv?
+#### wa[ho](../prefixes/ho.md)yoʔtv?
 
 > <mark>Wahoyoʔtvʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He worked.’)*
 
