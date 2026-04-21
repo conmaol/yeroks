@@ -10,6 +10,8 @@ Examples:
 >
 > Wa?<mark>ke</mark>nakt[hninu?](../h/hninu.md). ‘I bed-bought.’
 
+Note the <mark>·ke·</mark> allomporph in the second example.
+
 ----
 
 Back up to: [Verbs](../index.md) | [Top](../../index.md)
