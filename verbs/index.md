@@ -10,6 +10,7 @@ Agreement prefixes:
 - **[ye·](prefixes/ye.md)** \[feminine singular subject\]
 - **[ruwa·](prefixes/ruwa.md)** \[feminine singular subject, masculine singular object\]
 - **[k·](prefixes/k.md)** \[first person singular subject\]
+- **[t·](prefixes/t.md)** \[first person singular subject\]
 
 Mood prefixes:
 - **[waʔ·](prefixes/wa_.md)** \[factive mood\]
