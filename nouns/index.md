@@ -7,6 +7,7 @@ Stems:
 
 Prefixes:
 - **[ako·](prefixes/ako.md)** ‘her’
+- **[ka·](prefixes/ka.md)**
 
 ----
 
