@@ -6,9 +6,9 @@
 
 > [Waʔkhninuʔ](../../verbs/h/hninu.md) ne <mark>kanaktaʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
-Examples with incorporated object nouns:
+### Incorporated into a verb
 
-> Wa?ke<mark>nakt</mark>a[hninu?](../../verbs/h/hninu.md). ‘I bed-bought.’
+> [Wa?ke](../../verbs/h/hninu.md)<mark>nakt</mark>a[hninu?](../../verbs/h/hninu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
 
 ----
 
