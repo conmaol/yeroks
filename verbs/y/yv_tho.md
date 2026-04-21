@@ -4,7 +4,7 @@
 
 ### ·yvʔtho[s](../suffixes/s.md) (habitual)
 
-### [t](../prefixes/t.md)yvʔthos – ‘I plant’
+#### [t](../prefixes/t.md)yvʔthos – ‘I plant’
 
 > <mark>Tyvʔthos</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) — ‘I plant’.)*
 
