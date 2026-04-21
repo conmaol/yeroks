@@ -4,7 +4,7 @@ Stems:
 - **[·hninu·](h/hninu.md)** *tr.* ‘buy’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
-- **[·yoʔtv·](y/yo_tv)** *intr.obj.* ‘work’
+- **[·yoʔtv·](y/yo_tv.md)** *intr.obj.* ‘work’
 - **[·yvʔtho·](y/yv_tho.md)** *intr.sbj.* ‘plant’
 
 Agreement prefixes:
