@@ -86,14 +86,23 @@ Intransitive verbs are marked with either ‘subjective’ or ‘objective’ ag
 >
 > (ii) [rota?s](../verbs/i/ita_.md) ‘he sleeps’
 
-Transitive vrebs show transitive agreement, except when they have a neuter third person argument. Third person neuler agreement is not marked; a transitive verb with a third person neuter abject will show the same agreement as an intransitive verb with the same subject argument, and a transitive verb with a third person neuter subject will show the same agreement as an intransitive verb which takes objective prefixes.
+Transitive verbs show transitive agreement, except when they have a neuter third-person argument. Third-person neuter agreement is not marked; a transitive verb with a third-person neuter object will show the same agreement as an intransitive verb with the same subject argument, and a transitive verb with a third-person neuter subject will show the same agreement as an intransitive verb which takes objective prefixes.
+
+\[p. 5\]
 
 (ex. 1.4)<a id="ex-1-4"></a>
 
-- ruwanuhwe?s
-    - ruwa-nuhwe?-s
-    - FEM.SG.SBJ-like-HAB
-    - she likes him (p.4)
+(a) transitive verbs
+
+> (i) [ruwanuhwe?s](../verbs/n/nuhwe_.md) ‘she likes him’
+>
+> (ii)
+
+(b) transitive verb with neuter object
+
+(c) transitive verb with neuter subject
+
+
 
 ### 1.2. The structure
 
