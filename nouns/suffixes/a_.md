@@ -4,7 +4,7 @@
 
 Examples:
 
-> Waʔkhninuʔ ne [kanakta](../n/nakt.md)<mark>ʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
+> Waʔkhninuʔ ne [kanakt](../n/nakt.md)<mark>aʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
 ----
 
