@@ -2,7 +2,7 @@
 
 `·nakt·` ‘a bed’ is a [noun](../index.md).
 
-Examples:
+### [ka](../prefixes/ka.md)nakt[aʔ](../suffixes/a_.md)
 
 > [Waʔkhninuʔ](../../verbs/h/hninu.md) ne <mark>kanaktaʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
