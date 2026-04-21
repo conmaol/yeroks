@@ -6,7 +6,7 @@ See also: **[ho·](ho.md)**
 
 Examples:
 
-
+> <mark>Ro</mark>[taʔs](../i/ita_). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He sleeps.’)*
 
 ----
 
