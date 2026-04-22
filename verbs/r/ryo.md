@@ -4,6 +4,8 @@
 
 ### ·ryo[ht](../suffixes/ht.md)· (causative)
 
+#### [v](../prefixes/u.md)··ryoht[e?](../suffixes/_.md) (future punctual)
+
 > Thikv ka?sere <mark>vhoryohte?</mark> ne ya?niha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
 
 ----
