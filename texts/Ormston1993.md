@@ -40,14 +40,6 @@ Transcription conventions:
 
 > [Ranuhwe?s](../verbs/n/nuhwe_.md). ‘he likes it’
 
-There is another example in the footnotes to page 2:<a id="fn-2-5-i"></a>
-
-> (fn. 5 (i))
->
-> [yenuhwe?s](../verbs/n/nuhwe_.md) ne [athere?](../nouns/a/athere_.md) ‘she likes the basket’
-> 
-> yenuhwe?s ‘she likes it’
-
 Object nouns may be incorporated.
 
 (ex. 1.2)<a id="ex-1-2"></a>
@@ -100,9 +92,17 @@ Transitive verbs show transitive agreement, except when they have a neuter third
 
 (b) transitive verb with neuter object
 
+> [yenuhwe?s](../verbs/n/nuhwe_.md) ne [athere?](../nouns/a/athere_.md) ‘she likes the basket’
+> 
+> yenuhwe?s ‘she likes it’
+
 (c) transitive verb with neuter subject
 
+> Thikv ka?sere [vhoryohte?](../verbs/r/ryo) ne ya?niha. ‘That car will be the death of your father.’
 
+The transitive agreement morphemes cannot be easily separated into their subparts, and seem to be unanalysable units. For example, first-person singular subject agreement is <mark>k</mark>, and second-person singular objective agreement is <mark>s</mark>, but the transitive agreement which represents 1sS/2sO is <mark>ku</mark>. Transitive agreements are not in general “composed” of the relevant intransitive agreement markers, but are distinct wholes. 
+
+The titles “subjective” and “objective” for the agreement markers are somewhat misleading. Sorne intransitive verbs mark their subject with “objective” agreement.
 
 ### 1.2. The structure
 
