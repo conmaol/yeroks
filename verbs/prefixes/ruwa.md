@@ -1,6 +1,6 @@
 # ruwa·
 
-`ruwa·` is a [verb](../index.md) prefix marking the combination of a feminine singular subject and a masculine singular object.
+`ruwa·` is a [verb](../index.md) prefix, marking the combination of a feminine singular subject and a masculine singular object.
 
 Examples:
 
