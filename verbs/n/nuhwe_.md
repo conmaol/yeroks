@@ -12,9 +12,9 @@
 
 #### [ye](../prefixes/ye.md)nuhweʔs ‘she likes it’
 
-> <mark>Yenuhweʔs</mark> ne [athereʔ](../../nouns/a/athere_.md). *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) – ‘She likes the basket.’)*
+> <mark>Yenuhweʔs</mark> ne [athereʔ](../../nouns/a/athere_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes the basket.’)*
 > 
-> <mark>Yenuhweʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#fn-2-5-i) – ‘She likes it.’)*
+> <mark>Yenuhweʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes it.’)*
 
 #### [ruwa](../prefixes/ruwa.md)nuhweʔs ‘she likes him’
 
