@@ -10,7 +10,7 @@ Intransitive examples:
 
 Transitive examples:
 
-> Thikv kaʔsere v<mark>ho</mark>ryohteʔ ne yaʔniha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
+> Thikv kaʔsere v<mark>ho</mark>[ryohteʔ](../r/ryo.md) ne yaʔniha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
 
 ----
 
