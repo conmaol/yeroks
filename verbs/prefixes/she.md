@@ -1,6 +1,6 @@
 # she·
 
-`she·` is a verb prefix, marking the combination of a second person singular subject and a feminine singular object.
+`she·` is a [verb](../index.md) prefix, marking the combination of a second person singular subject and a feminine singular object.
 
 Examples:
 
