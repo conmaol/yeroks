@@ -98,7 +98,7 @@ Transitive verbs show transitive agreement, except when they have a neuter third
 
 (c) transitive verb with neuter subject
 
-> Thikv ka?sere [vhoryohte?](../verbs/r/ryo.md) ne [ya?niha](../nouns/_/_niha.md). ‘That car will be the death of your father.’
+> Thikv [ka?sere](../nouns/k/ka_sere.md) [vhoryohte?](../verbs/r/ryo.md) ne [ya?niha](../nouns/_/_niha.md). ‘That car will be the death of your father.’
 
 The transitive agreement morphemes cannot be easily separated into their subparts, and seem to be unanalysable units. For example, first-person singular subject agreement is <mark>k</mark>, and second-person singular objective agreement is <mark>s</mark>, but the transitive agreement which represents 1sS/2sO is <mark>ku</mark>. Transitive agreements are not in general “composed” of the relevant intransitive agreement markers, but are distinct wholes. 
 
