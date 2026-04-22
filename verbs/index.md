@@ -31,7 +31,7 @@ Aspect suffixes:
 - **[·ʔ](suffixes/_.md)** \[punctual aspect\]
 
 Other suffixes:
-- **[·ht·](suffixes/ht.md)** \[causative/]
+- **[·ht·](suffixes/ht.md)** \[causative\]
 
 ----
 Back up to: [Top](../index.md)
