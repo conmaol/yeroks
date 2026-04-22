@@ -96,7 +96,7 @@ Transitive verbs show transitive agreement, except when they have a neuter third
 
 > (i) [ruwanuhwe?s](../verbs/n/nuhwe_.md) ‘she likes him’
 >
-> (ii)
+> (ii) [shekvs](../verbs/k/kv.md) ‘you see her’
 
 (b) transitive verb with neuter object
 
