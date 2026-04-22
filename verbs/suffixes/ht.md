@@ -4,7 +4,7 @@
 
 Examples:
 
-> Thikv ka?sere [vhoryo](../r/ryo.md)<mark>ht</mark>e? ne ya?niha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
+> Thikv kaʔsere [vhoryo](../r/ryo.md)<mark>ht</mark>eʔ ne yaʔniha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
 
 ----
 
