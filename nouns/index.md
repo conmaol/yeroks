@@ -3,6 +3,7 @@
 Stems:
 - **[athereʔ](a/athere_.md)** ‘a basket’
 - **[·atyaʔtawi](a/atya_tawi.md)** ‘a shirt’
+- **[kaʔsere](k/ka_sere.md)** ‘a car’
 - **[·nakt·](n/nakt.md)** ‘a bed’
 - **[ʔniha](_/_niha.md)** *masc.* ‘a father’
 
