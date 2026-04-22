@@ -1,6 +1,6 @@
 # ho·
 
-`ho·` is a [verb](../index.md) prefix, marking a masculine singular object, and optionally a neuter singular subject.
+`ho·` is a [verb](../index.md) prefix, marking a masculine singular object, optionally accompanying a neuter singular subject.
 
 See also: **[ro·](ro.md)**
 
