@@ -1,6 +1,6 @@
 # ·k·
 
-`·k·` is a [verb](../index.md) prefix marking a first person singular subject.
+`·k·` is a [verb](../index.md) prefix, marking a first person singular subject.
 
 See also: **[·t·](t.md)**
 
