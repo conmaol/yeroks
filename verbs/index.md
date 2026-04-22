@@ -25,6 +25,7 @@ Agreement prefixes:
 
 Mood prefixes:
 - **[waʔ·](prefixes/wa_.md)** \[factive mood\]
+- **[v·](prefixes/v.md)** \[future mood\]
 
 Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
