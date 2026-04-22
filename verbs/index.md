@@ -17,7 +17,7 @@ Agreement prefixes:
   - **[k·](prefixes/k.md)** \[first person singular subject\]
   - **[t·](prefixes/t.md)** \[first person singular subject\]
 - object
-  - **[ho·](prefixes/ho.md)** \[masculine singular object\]
+  - **[ho·](prefixes/ho.md)** \[masculine singular object, optional neuter singular subject\]
   - **[ro·](prefixes/ro.md)** \[masculine singular object\]
 - subject and object
   - **[ruwa·](prefixes/ruwa.md)** \[feminine singular subject, masculine singular object\]
@@ -29,6 +29,9 @@ Mood prefixes:
 Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
 - **[·ʔ](suffixes/_.md)** \[punctual aspect\]
+
+Other suffixes:
+- **[·ht·](suffixes/ht.md)** \[causative/]
 
 ----
 Back up to: [Top](../index.md)
