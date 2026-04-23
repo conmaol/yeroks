@@ -1,6 +1,7 @@
 # Verbs
 
 Stems:
+- **[·asvʔ·](a/asv_.md)** *intr.sbj.* ‘fall’
 - **[·hninu·](h/hninu.md)** *tr.* ‘buy’
 - **[·hriʔ·](h/hri_.md)** *intr.sbj.* ‘break’
 - **[·itaʔ·](i/ita_.md)** *intr.obj.* ‘sleep’
