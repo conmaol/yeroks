@@ -1,4 +1,4 @@
-·hriʔ·
+# ·hriʔ·
 
 `·hriʔ·` ‘break’ is an intransitive, subject-agreement [verb](../index.md).
 
