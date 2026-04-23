@@ -6,7 +6,7 @@
 
 #### vte[w](../prefixes/w.md)asvʔneʔ – ‘it will fall’
 
-> [vtewasvʔneʔ](../verbs/a/asv_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It will fall.’)*
+> <mark>vtewasvʔneʔ</mark> *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It will fall.’)*
 
 ----
 
