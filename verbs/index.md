@@ -16,6 +16,8 @@ Agreement prefixes:
 - subject
   - **[ra·](prefixes/ra.md)** \[masculine singular subject\]
   - **[ye·](prefixes/ye.md)** \[feminine singular subject\]
+  - **[ka·](prefixes/ka.md)** \[neuter singular subject\]
+  - **[w·](prefixes/w.md)** \[neuter singular subject\]
   - **[k·](prefixes/k.md)** \[first person singular subject\]
   - **[t·](prefixes/t.md)** \[first person singular subject\]
 - object
