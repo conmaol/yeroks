@@ -45,6 +45,7 @@ Aspect suffixes:
 
 Other suffixes:
 - **[·ht·](suffixes/ht.md)** \[causative\]
+- **[·v·](suffixes/v.md)** \[benefactive\]
 
 ----
 Back up to: [Top](../index.md)
