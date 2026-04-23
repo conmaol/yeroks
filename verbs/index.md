@@ -7,6 +7,7 @@ Stems:
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
 - **[·ryo·](r/ryo.md)** *intr.* ‘die’
+- **[·yeshu·](y/yeshu.md)** *intr.obj.* ‘laugh’
 - **[·yoʔtv·](y/yo_tv.md)** *intr.obj.* ‘work’
 - **[·yvʔtho·](y/yv_tho.md)** *intr.sbj.* ‘plant’
 
