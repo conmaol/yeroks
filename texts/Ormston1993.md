@@ -132,6 +132,12 @@ There are some (unaccusative) intransitive verbs which mark their “object” w
 
 Aside from the agreement markers, various other morphemes may appear on the verb, inc1uding mood markers, aspect markers, derivational affixes, and incorporated roots. For example, the verb in the following sentence, meaning “Sak broke in on me”, shows the cislocative prefix, the factual mood prefix, MsS/1sO agreement, the benefactive suffix, and the punctual aspect suffix.
 
+(ex. 1.7)<a id="ex-1-7"></a>
+
+> Sak [tahwkwatatweya?tv?](../verbs/a/ataweya_t.md) ‘Sak broke in on me’
+
+
+
 ### 1.2. The structure
 
 ### 1.3. The issues
