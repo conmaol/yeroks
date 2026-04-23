@@ -36,6 +36,7 @@ Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
 - **[·eʔ](suffixes/e_.md)** \[habitual aspect\]
 - **[·ʔ](suffixes/_.md)** \[punctual aspect\]
+- **[·neʔ](suffixes/ne_.md)** \[punctual aspect\]
 
 Other suffixes:
 - **[·ht·](suffixes/ht.md)** \[causative\]
