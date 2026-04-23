@@ -1,6 +1,6 @@
-# ·hakw·
+# hakw·
 
-`·hakw·` is a [verb](../index.md) prefix, marking a masculine singular subject accompanies by a first-person singular object.
+`hakw·` is a [verb](../index.md) prefix, marking a masculine singular subject accompanies by a first-person singular object.
 
 Examples:
 
