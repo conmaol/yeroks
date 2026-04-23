@@ -1,7 +1,13 @@
-# w
+# w·
 
-[verb](../index.md) prefix
+`w·` is a [verb](../index.md) prefix marking a neuter singular subject.
+
+See also: **[ka·](ka.md)**
+
+Examples:
+
+
 
 ----
 
-Back up to:
+Back up to: [Verbs](../index.md) | [Top](../../index.md)
