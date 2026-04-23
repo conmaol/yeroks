@@ -7,6 +7,8 @@ See also: **[ro·](ro.md)**
 Intransitive examples:
 
 > Wa<mark>ho</mark>[yoʔtvʔ](../y/yo_tv.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He worked.’)*
+>
+> Wa<mark>ho</mark>[yeshuʔ](../y/yeshu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He laughed.’)*
 
 Transitive examples:
 
