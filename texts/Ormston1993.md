@@ -147,48 +147,16 @@ The overall organization of the affixes on the verb is roughly as follows:
 The divisions represent fairly firm boundaries of phonological processes, although there are some interactions of morphemes across these boundaries. For example, across the pre-pronominal/pronominal boundary, the choice of the <mark>ukw</mark> allomorph of the first-person singular subjective (1sS) marker is conditioned by the presence of the <mark>a</mark> “optative” morpheme. There is a great deal of allomorphic variation in the shape of the affixes in Mohawk, and in the Iroquoian languages in general. For
 example, the “stative” morpheme is usually <mark>u</mark>, sometimes <mark>v</mark>, sometimes <mark>e?</mark>, and sometimes null. I will refer to an affix by its most frequent allomorph (as in the habitual <mark>s</mark>).
 
-Within the pre-pronominal prefixes are the mood markers 1 have
-mentioned above (wa? "factual", y. "future", and a "optative"), and non-
-modal prefixes, such as the cislocative, the duplicative, and the iterative,
-among others. The modal and non-modal prefixes occur in varying
-orders, and undergo different phonological pro~esses, depcnding on which
-specifie members of eaeh class are present.
+Within the pre-pronominal prefixes are the mood markers I have mentioned above (<mark>wa?</mark> “factual”, <mark>v</mark> “future”, and <mark>a</mark> “optative”), and non-
+modal prefixes, such as the cislocative, the duplicative, and the iterative, among others. The modal and non-modal prefixes occur in varying orders, and undergo different phonological processes, depending on which specific members of each class are present.
 
-The morphemes 1 identify as the mood prefixes "factual", "optative",
-and "future" were originally identified in the lroquoian literature as the
-tenses, "past", "indefinite", and "future". Foster (1986) offers a survcy of
-lOSee Lounsbury (1955) for Oneida.
+The morphemes I identify as the mood prefixes “factual”, “optative”, and “future” were originally identified in the Iroquoian literature as the tenses, “past”, “indefinite”, and “future”. Foster (1986) offers a survey of <mark>\[p. 9\]</mark> the development of these terms, and tentatively suggests that the term “future”, which is the last hold-over of the tense system, be changed to “predictive”.
 
-\[p. 9\]
+The mood prefixes express an idea which is not paralleled by any element within the English verbal system, although it is somewhat similar to the modals. The “factual” appears on forms which refer to events in the “actual world” (up to and including the present). The “optative” refers to events in a “desired or unrealized world”, and the “future” refers to events in the “projected world”. The distinction between mood and tense can be subtle, but it will be shown to he significant in chapter 3, where we will see some co-occurence restrictions on the “factual” which are explained under the assumption that it refers to the “actual world”, but which remain a mystery if it represents “past tense”.
 
-the d\~vclopment of these terms, and tentatively suggests that the term
-"future", which is the last hold-over of the tense system, be changed to
-"predictive" (pg. 71).11
+The pronominal prefixes position is occupied by the subjective, objective and transitive agreement prefixes discussed above. The verb base position includes incorporated noun roots, the verb root, and various “derivational” affixes, such as the purposive, and the reversive.
 
-The mood prefixes express an idea which is not paralJeled by any
-clement within the English verbal system, although it is somewhat similar
-to the modals. The "factual" appears on forms which refer to events in the
-"actual world" (up to and including the present). The "optative" refers to
-cvents in a "desired or unrealized world", and the "future" refers to events
-in the "projected world". The distinction between mood and tense can be
-subtle, but it will he shown to he significant in chapter 3, where we will see
-sorne co-occurence restrictions on the "factual" which are explained under
-the assumption that it refers to the "actual world", but which remain a
-mystery if it represents "past tense".
-The pronominal prefixes positio
-
-The pronominal prefixes position is occupied by the subjective,
-objective and transitive agreement prefixes discussed above. The verb base
-position i.ncludes incorporated noun roots, the verb root, and vaTlous
-"derivational" affixes. such as the purposive, and the reversive.
-Finally, the aspect position is also a heterogeneous cIass, occupied by
-the aspect suffixes ~ "habituai", 1 "punctual", and .Y "stative"), as weil as
-various other affixes including, among others, the k "continuative", the
-hatye "progressive", and the kwe? and hne? "past" suffixes. 1 will mainly
-be concerned with the aspect suffixes "habituai", "punctual" and "stative"
-mcntioned above. but 1 will also discuss the "continuative", and the "past"
-suffixes.
-III will Dot adopt his s
+Finally, the aspect position is also a heterogeneous cIass, occupied by the aspect suffixes (<mark>s</mark> “habitual”, <mark>?</mark> “punctual”, and <mark>u</mark> “stative”), as well as various other affixes including, among others, the <mark>k</mark> “continuative”, the <mark>hatye</mark> “progressive”, and the <mark>kwe?</mark> and <mark>hne?</mark> “past’ suffixes. I will mainly be concerned with the aspect suffixes “habitual”, “punctual” and “stative” mentioned above, but I will also discuss the “continuative”, and the “past” suffixes.
 
 ### 1.2. The structure
 
