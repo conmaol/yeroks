@@ -3,7 +3,7 @@
 `·ataweyaʔt·` ‘enter’ is a transitive [verb](../index.md).
 
 
-### [t](../prefixes/t.md)·[a](../prefixes/a.md)··atatweyaʔt[v](../suffixes/v.md)·[ʔ](../suffixes/_.md) (cislocative factive benefactive punctual)
+### [t](../prefixes/t.md)·[a](../prefixes/wa_.md)··atatweyaʔt[v](../suffixes/v.md)·[ʔ](../suffixes/_.md) (cislocative factive benefactive punctual)
 
 #### ta[hwkw](../prefixes/hakw.md)atatweyaʔtvʔ – ‘he broke in on me’
 
