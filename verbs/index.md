@@ -29,6 +29,9 @@ Mood prefixes:
 - **[waʔ·](prefixes/wa_.md)** \[factive mood\]
 - **[v·](prefixes/v.md)** \[future mood\]
 
+Other prefixes:
+- **[t·](prefixes/t.md)** \[duplicative\]
+
 Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
 - **[·eʔ](suffixes/e_.md)** \[habitual aspect\]
