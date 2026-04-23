@@ -5,6 +5,9 @@
 - https://link.springer.com/article/10.1007/BF00134750
 - https://link.springer.com/chapter/10.1007/978-94-017-2817-1_3
 - https://www.journals.uchicago.edu/doi/epdf/10.1086/465674
+- https://lisatravis2012.wordpress.com/2017/10/18/intro-to-mohawk-morphology/
+- https://www.researchgate.net/publication/389249471_'Epenthetic'_vowels_at_the_phonology-morphosyntax_interface_in_Mohawk
+- https://people.linguistics.mcgill.ca/~mcgwpl/McGWPL/1988v05n02/1988v05n02p03bonneau.pdf
 - 
 
 ----
