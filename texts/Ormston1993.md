@@ -104,6 +104,33 @@ The transitive agreement morphemes cannot be easily separated into their subpart
 
 The titles “subjective” and “objective” for the agreement markers are somewhat misleading. Sorne intransitive verbs mark their subject with “objective” agreement.
 
+\[p. 6\]
+
+(ex. 1.5)<a id="ex-1-5"></a>
+
+(a)
+
+> [royo?te?](../verbs/y/yo_tv.md) ‘he works’
+
+(b)
+
+> [wahoyeshu?](../verbs/y/yeshu.md) ‘he laughed’
+
+There are some (unaccusative) intransitive verbs which mark their “object” with subjective agreement.
+
+(ex. 1.6)<a id="ex-1-6"></a>
+
+(a)
+
+> [wa?tkahri?ne?](../verbs/h/hri_.md) ‘it broke’
+
+(b)
+
+> [vtewasv?ne?](../verbs/a/asv_.md) ‘it will fall’
+
+
+
+
 ### 1.2. The structure
 
 ### 1.3. The issues
