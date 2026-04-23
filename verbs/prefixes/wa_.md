@@ -11,6 +11,8 @@ Examples:
 > <mark>Wa</mark>[hoyoʔtvʔ](../y/yo_tv.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He worked.’)*
 >
 > <mark>Wa</mark>[hoyeshuʔ](../y/yeshu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He laughed.’)*
+>
+> <mark>Wa?</mark>[tkahri?ne?](../h/hri_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It broke.’)*
 
 Note the <mark>wa</mark> allomorph.
 
