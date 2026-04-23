@@ -9,8 +9,10 @@ Examples:
 > <mark>Wa?</mark>kenakta[hninu?](../h/hninu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
 >
 > <mark>Wa</mark>[hoyoʔtvʔ](../y/yo_tv.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He worked.’)*
+>
+> <mark>Wa</mark>[hoyeshuʔ](../y/yeshu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He laughed.’)*
 
-Note the <mark>wa</mark> allomorph in the third example.
+Note the <mark>wa</mark> allomorph.
 
 ----
 
