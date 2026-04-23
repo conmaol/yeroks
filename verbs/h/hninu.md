@@ -10,7 +10,7 @@
 
 #### With an incorporated noun object
 
-> <mark>Wa?ke</mark>[nakt](../../nouns/n/nakt.md)a<mark>hninu?</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
+> <mark>Waʔke</mark>[nakt](../../nouns/n/nakt.md)a<mark>hninuʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
 
 ----
 
