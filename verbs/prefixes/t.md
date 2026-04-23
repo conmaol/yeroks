@@ -1,6 +1,6 @@
 # ·t·
 
-`·t·` is a [verb](../index.md) prefix marking:
+`·t·` is a [verb](../index.md) prefix marking either:
 - a first person singular subject
 - duplicative verbs.
 
