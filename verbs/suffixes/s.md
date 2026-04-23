@@ -2,6 +2,8 @@
 
 `·s` is a [verb](../index.md) suffix marking habitual aspect.
 
+See also: **[·eʔ](e_.md)**
+
 Examples:
 
 > Sak [ranuhweʔ](../n/nuhwe_.md)<mark>s</mark> akotyaʔtawi. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress’)*
