@@ -6,7 +6,7 @@
 
 #### wa?t[ka](../prefixes/ka.md)hri?ne?
 
-> <mark>Waʔtkahriʔne?</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It broke.’)*
+> <mark>Waʔtkahriʔneʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It broke.’)*
 
 ----
 
