@@ -26,7 +26,7 @@ Agreement prefixes:
   - **[ho·](prefixes/ho.md)** \[masculine singular object, optional neuter singular subject\]
   - **[ro·](prefixes/ro.md)** \[masculine singular object\]
 - subject and object
-  - **[·hakw·](prefixes/hakw.md)** \[masculine singular subject, first-person singular object\]
+  - **[hakw·](prefixes/hakw.md)** \[masculine singular subject, first-person singular object\]
   - **[ruwa·](prefixes/ruwa.md)** \[feminine singular subject, masculine singular object\]
   - **[she·](prefixes/she.md)** \[second-person subject, feminine singular object\]
 
