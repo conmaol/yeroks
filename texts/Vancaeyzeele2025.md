@@ -39,17 +39,30 @@ Some alternative spellings:
 
 Epenthetic \[e\] surfaces to break up illicit surface consonant clusters (Michelson 1989:40-43).
 
-1) C_Ci (condition: Ci = /r, n, w/) tékeriks
-te-k-rik-s
-DUALIC-ISG.AGT-put together-HABITUAL
-‘I put them together’ (Michelson 1989:39)
+##### C_C<sub>i</sub> where C<sub>i</sub> = /r, n, w/
 
-2) Ci_CjC (condition: Ci ≠ /h, ʔ/, Cj ≠ /h, s/) wakényaks
-wak-nyak-s
-1SG.PAT-get married-HABITUAL
-‘I get married’ (Michelson 1989:42)
+- ték<mark>e</mark>riks
+- te-k-rik-s
+- DUALIC-ISG.AGT-put together-HABITUAL
+- ‘I put them together’ (Michelson 1989:39)
 
-3) C_/ʔ/ # ʌká:rate ʔ
+ie.
+- /kr/ => /ker/
+- /kn/ => /ken/ ???
+- /kw/ => /kew/ ???
+
+
+
+##### Ci_CjC where Ci ≠ /h, ʔ/, Cj ≠ /h, s/
+
+- wakényaks
+- wak-nyak-s
+- 1SG.PAT-get married-HABITUAL
+- ‘I get married’ (Michelson 1989:42)
+
+##### C_/ʔ/ # 
+
+ʌká:rate ʔ
 ʌ-k-arat-ʔ
 FUT-1SG.AGT-lay oneself down-PUNCTUAL
 ‘I lay myself down’ (Michelson 1989:43)
