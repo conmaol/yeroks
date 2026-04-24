@@ -1,16 +1,14 @@
 # ·k·
 
-`·k·` is a [verb](../index.md) prefix, marking a first person singular subject.
-
-See also: **[·t·](t.md)**
+`·k·` is a [verb](../index.md) prefix, marking a first person singular subject (accompanied by an optional neuter singular object).
 
 Examples:
 
-> Waʔ<mark>k</mark>[hninuʔ](../h/hninu.md) ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
+> Waʔ·<mark>k</mark>·[hninu](../h/hninu.md)·ʔ ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 >
-> Wa?<mark>ke</mark>nakt[hninu?](../h/hninu.md). ‘I bed-bought.’
+> Wa?·<mark>k</mark>·e·nakt·a·[hninu](../h/hninu.md)·?. ‘I bed-bought.’
 
-Note the <mark>·ke·</mark> allomporph in the second example.
+Note the [epenthesis](../../phonology/epenthetis-e.md) in the second example.
 
 ----
 
