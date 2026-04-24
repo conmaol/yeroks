@@ -58,16 +58,33 @@ ie.
 - /yr/, /yn/, /yw/ ???
 - /wr/, /wn/, /ww/ ???
 
-#### Ci_CjC where Ci ≠ /h, ʔ/, Cj ≠ /h, s/
+#### C<sub>i</sub>_C<sub>j</sub>C where C<sub>i</sub> ≠ /h, ʔ/, C<sub>j</sub> ≠ /h, s/
 
-- wakényaks
+- wak<mark>é</mark>nyaks
 - wak-nyak-s
 - 1SG.PAT-get married-HABITUAL
 - ‘I get married’ (Michelson 1989:42)
 
-#### C_/ʔ/ # 
+ie.
+- /kny/ => /keny/
+- /tny/ => /teny/ ???
+- /sny/ => /seny/ ???
+- /rny/ => /reny/ ???
+- /nny/ => /neny/ ???
+- /yny/ => /yeny/ ???
+- /wny/ => /weny/ ???
+- /knk/, etc ???
 
-- ʌká:rateʔ
+Maybe:
+- CCC => CeCC, except:
+  - hCC
+  - ʔCC
+  - ChC
+  - CsC
+
+#### C_/ʔ/ \# 
+
+- ʌká:rat<mark>e</mark>ʔ
 - ʌ-k-arat-ʔ
 - FUT-1SG.AGT-lay oneself down-PUNCTUAL
 - ‘I lay myself down’ (Michelson 1989:43)
