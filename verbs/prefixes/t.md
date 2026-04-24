@@ -21,7 +21,7 @@ Examples:
 >
 > v<mark>te</mark>[wasvʔneʔ](../a/asv_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It will fall.’)*
 >
-> [waʔ](../prefixes/wa_.md)·[t](../prefixes/t.md)·ha·<mark>yaʔk</mark>·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md) Sak [rao·aʔshareʔ](../nouns/a/a_share_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
+> [waʔ](../prefixes/wa_.md)·[t](../prefixes/t.md)·ha·[yaʔk]()·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md) Sak [rao·aʔshareʔ](../nouns/a/a_share_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
 
 ## Cislocative
 
