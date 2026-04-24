@@ -12,7 +12,7 @@ Examples:
 
 > <mark>Waʔ</mark>·k·[hninu](../h/hninu.md)·ʔ ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 >
-> <mark>Wa?</mark>·ke·nakt·a·[hninu?](../h/hninu.md)·ʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
+> <mark>Wa?</mark>·ke·nakt·a·[hninu](../h/hninu.md)·ʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
 >
 > <mark>Waʔ</mark>[tkahriʔneʔ](../h/hri_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It broke.’)*
 >
