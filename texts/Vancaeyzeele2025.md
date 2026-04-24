@@ -2,7 +2,7 @@
 
 Charles Vancaeyzeele (2005). [‘Epenthetic’ vowels at the phonology-morphosyntax interface in Mohawk](https://www.researchgate.net/publication/389249471_'Epenthetic'_vowels_at_the_phonology-morphosyntax_interface_in_Mohawk).
 
-### The Mohawk language (phonemic inventory)<a id="slide-1"></a>
+## The Mohawk language (phonemic inventory)<a id="slide-1"></a>
 
 - 6 vowels:
   - 4 orals /a, i, e, o/
@@ -17,29 +17,29 @@ Some alternative spellings:
 - `ũ` = `u`
 - `j` = `y`
 
-### The Mohawk language (basic morphosyntactic features)<a id="slide-2"></a>
+## The Mohawk language (basic morphosyntactic features)<a id="slide-2"></a>
 
-#### Polysynthetic morphology
+### Polysynthetic morphology
 
 - waʔtkatátenakeʔ
 - waʔ-t-k-atat-nak-ʔ
 - FACTUAL-DUALIC-1SG.AGT-REFLEXIVE-scratch-PUNCTUAL
 - ‘I scratched myself’ (Michelson 1989:41)
 
-#### Noun Incorporation
+### Noun Incorporation
 
 - yaʔkená:waraʔneʔ
 - y-aʔ-k-naw-raʔ-neʔ
 - TRANSLOC-FACTUAL-1SG.AGT-swamp-approach-PUNCTUAL
 - ‘I approached the swamp’ (Michelson 1989:64)
 
-### Three ‘epenthetic’ vowels<a id="slide-3"></a>
+## Three ‘epenthetic’ vowels<a id="slide-3"></a>
 
-#### Epenthetic \[e\]
+### Epenthetic \[e\]
 
 Epenthetic \[e\] surfaces to break up illicit surface consonant clusters (Michelson 1989:40-43).
 
-##### C_C<sub>i</sub> where C<sub>i</sub> = /r, n, w/
+#### C_C<sub>i</sub> where C<sub>i</sub> = /r, n, w/
 
 - ték<mark>e</mark>riks
 - te-k-rik-s
@@ -58,14 +58,14 @@ ie.
 - /yr/, /yn/, /yw/ ???
 - /wr/, /wn/, /ww/ ???
 
-##### Ci_CjC where Ci ≠ /h, ʔ/, Cj ≠ /h, s/
+#### Ci_CjC where Ci ≠ /h, ʔ/, Cj ≠ /h, s/
 
 - wakényaks
 - wak-nyak-s
 - 1SG.PAT-get married-HABITUAL
 - ‘I get married’ (Michelson 1989:42)
 
-##### C_/ʔ/ # 
+#### C_/ʔ/ # 
 
 - ʌká:rateʔ
 - ʌ-k-arat-ʔ
@@ -84,7 +84,7 @@ ie.
 - /wʔ#/ => /weʔ#/ ???
 
 
-#### Epenthetic \[a\] – ‘stem-joiner’
+### Epenthetic \[a\] – ‘stem-joiner’
 
 Epenthetic [a] (‘stem-joiner’) is inserted inbetween any heteromorphemic consonant
 cluster within the verb stem, i.e. ‘between an incorporated noun root and a
@@ -94,7 +94,7 @@ t-ye-yaʔt-kehru-Ø
 CISLOCATIVE-FEM.SG.AGT-body-spread around-STATIVE
 ‘I break, smash stones’ (Michelson 1989:48)
 
-#### Prothetic \[i\]
+### Prothetic \[i\]
 
 Prothetic [i] emerges whenever the underlying form of a word would otherwise surface with less than two syllables (morphological minimality condition)
 (Michelson 1989:38)
