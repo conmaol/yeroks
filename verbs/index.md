@@ -17,7 +17,7 @@ Stems:
 
 Agreement prefixes:
 - subject
-  - **[ra·](prefixes/ra.md)** \[masculine singular subject\]
+  - **[ra·](prefixes/ra.md)** \[masculine singular subject (and optional neuter singular object)\]
   - **[ye·](prefixes/ye.md)** \[feminine singular subject\]
   - **[ka·](prefixes/ka.md)** \[neuter singular subject\]
   - **[w·](prefixes/w.md)** \[neuter singular subject\]
