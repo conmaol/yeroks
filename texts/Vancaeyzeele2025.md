@@ -48,10 +48,15 @@ Epenthetic \[e\] surfaces to break up illicit surface consonant clusters (Michel
 
 ie.
 - /kr/ => /ker/
-- /kn/ => /ken/ ???
-- /kw/ => /kew/ ???
-
-
+- /kn/ => /ken/, /kw/ => /kew/ ???
+- /tr/ => /ter/, /tw/ => /tew/, /tn/ => /ten/ ???
+- /sr/ => /ser/, /sw/ => /sew/, /sn/ => /sen/ ???
+- /hr/, /hn/, /hw/ ???
+- /ʔr/, /ʔn/, /ʔw/ ???
+- /rr/, /rn/, /rw/ ???
+- /nr/, /nn/, /nw/ ???
+- /yr/, /yn/, /yw/ ???
+- /wr/, /wn/, /ww/ ???
 
 ##### Ci_CjC where Ci ≠ /h, ʔ/, Cj ≠ /h, s/
 
@@ -62,10 +67,22 @@ ie.
 
 ##### C_/ʔ/ # 
 
-ʌká:rate ʔ
-ʌ-k-arat-ʔ
-FUT-1SG.AGT-lay oneself down-PUNCTUAL
-‘I lay myself down’ (Michelson 1989:43)
+- ʌká:rateʔ
+- ʌ-k-arat-ʔ
+- FUT-1SG.AGT-lay oneself down-PUNCTUAL
+- ‘I lay myself down’ (Michelson 1989:43)
+
+ie.
+- /tʔ#/ => /teʔ#/
+- /kʔ#/ => /keʔ#/ ???
+- /sʔ#/ => /seʔ#/ ???
+- /hʔ#/ => /heʔ#/ ???
+- /ʔʔ#/ => /ʔeʔ#/ ???
+- /rʔ#/ => /reʔ#/ ???
+- /nʔ#/ => /neʔ#/ ???
+- /yʔ#/ => /yeʔ#/ ???
+- /wʔ#/ => /weʔ#/ ???
+
 
 #### Epenthetic \[a\] – ‘stem-joiner’
 
