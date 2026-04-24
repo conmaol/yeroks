@@ -1,4 +1,4 @@
-# Epenthetic e
+# Epenthetic ·e·
 
 See:
 - the punctual verb suffix **[·ʔ](../verbs/suffixes/_.md)**
