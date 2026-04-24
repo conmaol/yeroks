@@ -160,6 +160,17 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 
 ### 1.2. The structure
 
+\[p. 11\]
+
+(1.10)
+
+> [wa?·t·ha·ya?k·e?](../verbs/y/ya_k.md) Sak [rao·a?share?](../nouns/a/a_share_.md) ‘he broke Sak’s knife’
+
+
+
+
+
+
 ### 1.3. The issues
 
 ### 1.4. Conclusion
