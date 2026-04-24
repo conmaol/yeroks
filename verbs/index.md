@@ -32,8 +32,9 @@ Agreement prefixes:
   - **[she·](prefixes/she.md)** \[second-person subject, feminine singular object\]
 
 Mood prefixes:
-- **[waʔ·](prefixes/wa_.md)** \[factive mood\]
+- **[waʔ·](prefixes/wa_.md)** \[factive mood\] (allomorphs: `wa·`, `·a·`)
 - **[v·](prefixes/v.md)** \[future mood\]
+- **a·** \[optative mood\]
 
 Other prefixes:
 - **[t·](prefixes/t.md)** \[duplicative\]
