@@ -6,7 +6,9 @@
 
 #### waʔ·t·ha·yaʔk·e·ʔ – ’he broke it‘
 
-> <mark>waʔ·t·ha·yaʔk·eʔ</mark> Sak [rao·aʔshareʔ](../nouns/a/a_share_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
+
+
+> [waʔ](../prefixes/wa_.md)·t·ha·<mark>yaʔk</mark>·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md) Sak [rao·aʔshareʔ](../nouns/a/a_share_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
 
 ----
 
