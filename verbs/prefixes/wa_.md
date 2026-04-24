@@ -2,7 +2,9 @@
 
 `waʔ·` is a [verb](../index.md) prefix, marking factive mood.
 
-Allomorphs: `wa·`, `·a·`
+Allomorphs: 
+- `wa·` – behore `h`?
+- `·a·` – non-initial?
 
 Question: Are factive verbs always punctual?
 
