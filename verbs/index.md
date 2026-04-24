@@ -43,7 +43,7 @@ Other prefixes:
 Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
 - **[·eʔ](suffixes/e_.md)** \[habitual aspect\]
-- **[·ʔ](suffixes/_.md)** \[punctual aspect\] (allomorphs: `·eʔ`, `·neʔ`)
+- **[·ʔ](suffixes/_.md)** \[punctual aspect\] (allomorphs: `·neʔ`)
 
 Other suffixes:
 - **[·ht·](suffixes/ht.md)** \[causative\]
