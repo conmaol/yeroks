@@ -3,7 +3,7 @@
 See:
 - the punctual verb suffix **[·ʔ](../verbs/suffixes/_.md)**
 
-> Thikv kaʔsere v·ho·[ryo](../r/ryo.md)·<mark>ht</mark>·[e](../../phonology/epenthetic-e.md)·[ʔ](_.md) ne yaʔniha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
+> Thikv kaʔsere v·ho·ryo·[ht](../verbs/suffixes/ht.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md) ne yaʔniha. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
 
 ----
 
