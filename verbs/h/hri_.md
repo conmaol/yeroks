@@ -2,7 +2,7 @@
 
 `·hriʔ·` ‘break’ is an intransitive, subject-agreement [verb](../index.md).
 
-### [wa?](../prefixes/wa_.md)·[t](../prefixes/t.md)··hri?[ne?](../suffixes/ne_.md) (factive punctual duplicative)
+### [wa?](../prefixes/wa_.md)·[t](../prefixes/t.md)··hri?[ne?](../suffixes/_.md) (factive punctual duplicative)
 
 #### wa?t[ka](../prefixes/ka.md)hri?ne?
 
