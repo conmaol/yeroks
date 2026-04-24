@@ -1,24 +1,20 @@
 # ·nuhweʔ·
 
-`·nuhweʔ·` ‘like’ is a transitive [verb](../index.md).
+`·nuhweʔ·` ‘like, be fond of’ is a transitive [verb](../index.md).
 
-### ·nuhweʔ[s](../suffixes/s.md) (habitual)
+Other spellings: `·nonhwe’·`, `·nón:hwe’·`
 
-#### [ra](../prefixes/ra.md)nuhweʔs ‘he likes it’
+Examples:
 
-> Sak <mark>ranuhweʔs</mark> [akotyaʔtawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress.’)*
+> [Ra](../prefixes/ra.md)·nuhweʔ·[s](../suffixes/s.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it.’)*
+>
+> Sak ra·nuhweʔ·s [akotyaʔtawi](../../nouns/a/atya_tawi.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress.’)*
+>
+> [Ye](../prefixes/ye.md)·nuhweʔ·s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes it.’)*
+>
+> Ye·nuhweʔ·s ne [athereʔ](../../nouns/a/athere_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes the basket.’)*
 > 
-> <mark>Ranuhweʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it.’)*
-
-#### [ye](../prefixes/ye.md)nuhweʔs ‘she likes it’
-
-> <mark>Yenuhweʔs</mark> ne [athereʔ](../../nouns/a/athere_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes the basket.’)*
-> 
-> <mark>Yenuhweʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes it.’)*
-
-#### [ruwa](../prefixes/ruwa.md)nuhweʔs ‘she likes him’
-
-> <mark>Ruwanuhweʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes him.’)*
+> [Ruwa](../prefixes/ruwa.md)·nuhweʔ·s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes him.’)*
 
 ----
 
