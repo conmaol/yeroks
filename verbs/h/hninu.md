@@ -8,7 +8,7 @@ Examples:
 
 > [Waʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·hninu·[ʔ](../suffixes/_.md) ne [kanaktaʔ](../../nouns/n/nakt.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 
-#### With an incorporated noun object
+Incorporated noun examples:
 
 > Waʔ·ke·[nakt](../../nouns/n/nakt.md)·[a]()·hninu·ʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
 
