@@ -10,7 +10,7 @@ Examples:
 
 Incorporated noun examples:
 
-> Waʔ·k·e·[nakt](../../nouns/n/nakt.md)·[a]()·hninu·ʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
+> [Waʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·[e](../../phonology/epenthetic-e.md)·[nakt](../../nouns/n/nakt.md)·[a](../../phonology/epenthetic-a.md)·hninu·[ʔ](../suffixes/_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
 
 ----
 
