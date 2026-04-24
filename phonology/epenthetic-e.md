@@ -1,5 +1,8 @@
 # Epenthetic ·e·
 
+When a word ends with a consonant followed immediately by a glottal obstruent `ʔ`, an `e` is inserted between the two.
+
+
 See:
 - the punctual verb suffix **[·ʔ](../verbs/suffixes/_.md)**
 
