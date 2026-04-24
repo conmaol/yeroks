@@ -2,7 +2,7 @@
 
 `·yaʔk·` ‘break’ is a transitive [verb](../index.md).
 
-### [waʔ](../prefixes/wa_.md)·t··yaʔk·eʔ (factive punctual duplicative)
+### [waʔ](../prefixes/wa_.md)·t··yaʔk·[eʔ](../suffixes/_.md) (factive punctual duplicative)
 
 #### waʔ·t·ha·yaʔk·eʔ – ’he broke it‘
 
