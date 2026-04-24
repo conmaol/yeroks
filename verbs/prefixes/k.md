@@ -6,9 +6,7 @@ Examples:
 
 > Waʔ·<mark>k</mark>·[hninu](../h/hninu.md)·ʔ ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
 >
-> Wa?·<mark>k</mark>·e·nakt·a·[hninu](../h/hninu.md)·?. ‘I bed-bought.’
-
-Note the [epenthesis](../../phonology/epenthetis-e.md) in the second example.
+> Wa?·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·nakt·a·[hninu](../h/hninu.md)·?. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
 
 ----
 
