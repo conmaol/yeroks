@@ -162,7 +162,7 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 
 \[p. 11\]
 
-(1.10)
+(1.10)<a id="ex-1-10"></a>
 
 > [wa?·t·ha·ya?k·e?](../verbs/y/ya_k.md) Sak [rao·a?share?](../nouns/a/a_share_.md) ‘he broke Sak’s knife’
 
