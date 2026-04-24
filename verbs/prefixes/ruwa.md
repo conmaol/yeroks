@@ -4,7 +4,7 @@
 
 Examples:
 
-> <mark>Ruwa</mark>[nuhweʔs](../n/nuhwe_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes him.’)*
+> <mark>Ruwa</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes him.’)*
 
 ----
 
