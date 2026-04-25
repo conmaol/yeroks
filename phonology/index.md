@@ -1,6 +1,7 @@
 # Phonology
 
-- [epenthetic e](epenthetic-e.md)
+- [epenthetic ·e·](epenthetic-e.md)
+- [epenthetic ·a·](epenthetic-a.md)
 
 ----
 
