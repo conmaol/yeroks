@@ -7,4 +7,4 @@ Examples:
 
 ----
 
-Back up to: [Phonology](../index.md) | [Top](../../index.md)
+Back up to: [Phonology](index.md) | [Top](../index.md)
