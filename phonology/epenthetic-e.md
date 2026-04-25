@@ -25,11 +25,13 @@ This rule seems to mainly involve the the punctual verb aspect suffix **[·ʔ](.
 > 
 > Y·aʔ·[k](../verbs/prefixes/k.md)·<mark>e</mark>·[ná:w](../nouns/n/naw.md)·a·raʔ·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-2))*
 
-
 #### tn → ten
 
 > Waʔ·t·k·[atát](../verbs/prefixes/atat.md)·<mark>e</mark>·[nak](../verbs/n/nak.md)·e·ʔ. *‘I scratched myself.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-2))*
 
+#### kr → ker
+
+> T·é·[k](../verbs/prefixes/k.md)·<mark>e</mark>·[rik](../verbs/r/rik.md)·s. *‘I put them together.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-3))*
 
 
 ----
