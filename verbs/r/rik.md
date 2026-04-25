@@ -4,7 +4,7 @@
 
 Examples:
 
-> Ték<mark>e</mark>riks. *‘I put them together.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-3))*
+> Ték<mark>e</mark>riks. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 - te-k-[rik](../verbs/rik.md)-s
 - DUALIC-ISG.AGT-put together-HABITUAL
