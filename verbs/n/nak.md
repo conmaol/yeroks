@@ -4,7 +4,7 @@
 
 Examples:
 
-[Vancaeyzeele 2025](../../texts/vancaezeele2025.md#)
+[Vancaeyzeele 2025](../../texts/Vancaezeele2025.md#)
 
 ----
 
