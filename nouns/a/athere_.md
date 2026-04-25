@@ -4,7 +4,7 @@
 
 Examples:
 
-> [Yenuhweʔs](../../verbs/n/nuhwe_.md) ne <mark>athereʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) ‘she likes the basket’)*
+> Ye·[nuhweʔ](../../verbs/n/nuhwe_.md)·s ne athereʔ. *‘She likes the basket.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 
 ----
 
