@@ -29,7 +29,7 @@ Some alternative spellings:
 ### Noun Incorporation
 
 - yaʔkená:waraʔneʔ
-- y-aʔ-k-naw-[raʔ](../verbs/r/ra_.md)-neʔ
+- y-aʔ-k-[naw](../nouns/n/naw.md)-[raʔ](../verbs/r/ra_.md)-neʔ
 - TRANSLOC-FACTUAL-1SG.AGT-swamp-approach-PUNCTUAL
 - ‘I approached the swamp’ (Michelson 1989:64)
 
