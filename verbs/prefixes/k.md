@@ -4,9 +4,11 @@
 
 Examples:
 
-> Waʔ·<mark>k</mark>·[hninu](../h/hninu.md)·ʔ ne kanaktaʔ. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
+> Waʔ·<mark>k</mark>·[hninu](../h/hninu.md)·ʔ ne kanaktaʔ. *‘I bought the/a bed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-2)* 
 >
-> Wa?·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·nakt·a·[hninu](../h/hninu.md)·?. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
+> Wa?·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·nakt·a·[hninu](../h/hninu.md)·?. *‘I bed-bought.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-2))*
+>
+> Waʔ·t·<mark>k</mark>·atát·e·[nak](../n/nak.md)·e·ʔ. *‘I scratched myself’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 
 ----
 
