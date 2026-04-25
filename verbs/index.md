@@ -9,6 +9,7 @@ Stems:
 - **[·kv·](k/kv.md)** *tr.* ‘see’
 - **[·nak·](n/nak.md)** *tr.* ‘scratch’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
+- **[·raʔ·](r/ra_.md)** *tr.* ‘approach’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
 - **[·ryo·](r/ryo.md)** *intr.* ‘die’
 - **[·yaʔk·](y/ya_k.md)** *tr.* ‘break’
