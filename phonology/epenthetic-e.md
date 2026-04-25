@@ -10,13 +10,24 @@ This rule seems to mainly involve the the punctual verb aspect suffix **[·ʔ](.
 
 > Thikv kaʔsere v·ho·ryo·[ht](../verbs/suffixes/ht.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md) ne yaʔniha. *([Ormston 1993](../texts/Ormston1993.md#ex-1-4) – ‘That car will be the death of your father.’)*
 
-#### tʔ# → teʔ#
+#### kʔ# → keʔ#
 
 > Waʔ·t·ha·[yaʔk](../verbs/y/ya_k.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md) Sak rao·aʔshareʔ. *([Ormston 1993](../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
+>
+> Waʔ·t·k·atát·e·[nak](../verbs/n/nak.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md). *‘I scratched myself.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 
-### kn → ken
+
+### Cn → Cen
+
+#### kn → ken
 
 > [Waʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·[e](../../phonology/epenthetic-e.md)·[nakt](../../nouns/n/nakt.md)·[a](../../phonology/epenthetic-a.md)·hninu·[ʔ](../suffixes/_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)* 
+
+#### tn → ten
+
+> Waʔ·t·k·[atát](../verbs/prefixes/atat.md)·<mark>e</mark>·[nak](../verbs/n/nak.md)·e·ʔ. *‘I scratched myself.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
+
+
 
 ----
 
