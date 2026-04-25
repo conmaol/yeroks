@@ -4,7 +4,7 @@
 
 Examples:
 
-> [Y](../prefixes/y.md)·[aʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·[e](../../phonology/epenthetic-e.md)·ná:w·a·raʔ·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
+> [Y](../prefixes/y.md)·[aʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·e·ná:w·a·raʔ·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 
 
 ----
