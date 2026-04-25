@@ -22,7 +22,7 @@ Some alternative spellings:
 ### Polysynthetic morphology
 
 - waʔtkatátenakeʔ
-- waʔ-t-k-atat-nak-ʔ
+- waʔ-t-k-atat-[nak](../verbs/n/nak.md)-ʔ
 - FACTUAL-DUALIC-1SG.AGT-REFLEXIVE-scratch-PUNCTUAL
 - ‘I scratched myself’ (Michelson 1989:41)
 
