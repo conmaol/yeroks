@@ -4,7 +4,14 @@
 
 Examples:
 
-[Vancaeyzeele 2025](../../texts/Vancaezeele2025.md#)
+Examples:
+
+- waʔtkatátenakeʔ
+- waʔ-t-k-atat-nak-ʔ
+- FACTUAL-DUALIC-1SG.AGT-REFLEXIVE-scratch-PUNCTUAL
+- ‘I scratched myself’ (Michelson 1989:41)
+
+[Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#)
 
 ----
 
