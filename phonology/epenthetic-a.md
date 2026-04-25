@@ -1,4 +1,4 @@
-# Epenthetic a
+# Epenthetic ·a·
 
 
 Examples:
