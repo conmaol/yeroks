@@ -25,7 +25,7 @@ Examples:
 >
 > Waʔ·<mark>t</mark>·k·atát·e·[nak](../n/nak.md)·e·ʔ. *‘I scratched myself’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 >
-> <mark>T·é</mark>·k·e·[rik](../r/riks.md)·s. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+> <mark>T·é</mark>·k·e·[rik](../r/rik.md)·s. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 ## Cislocative
 
