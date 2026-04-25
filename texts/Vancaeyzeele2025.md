@@ -42,7 +42,7 @@ Epenthetic \[e\] surfaces to break up illicit surface consonant clusters (Michel
 #### C_C<sub>i</sub> where C<sub>i</sub> = /r, n, w/
 
 - ték<mark>e</mark>riks
-- te-k-rik-s
+- te-k-[rik](../verbs/rik.md)-s
 - DUALIC-ISG.AGT-put together-HABITUAL
 - ‘I put them together’ (Michelson 1989:39)
 
