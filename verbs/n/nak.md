@@ -4,14 +4,7 @@
 
 Examples:
 
-Examples:
-
-- waʔtkatátenakeʔ
-- waʔ-t-k-atat-nak-ʔ
-- FACTUAL-DUALIC-1SG.AGT-REFLEXIVE-scratch-PUNCTUAL
-- ‘I scratched myself’ (Michelson 1989:41)
-
-[Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#)
+> [Waʔ](../prefixes/wa_.md)·[t](../prefixes/t.md)·[k](../prefixes/k.md)·[atát](../prefixes/atat.md)·[e](../../phonology/epenthetic-e.md)·nak·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md). *([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2) – ‘I scratched myself’)*
 
 ----
 
