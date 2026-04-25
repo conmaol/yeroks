@@ -9,6 +9,8 @@ Examples:
 > Wa?·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·nakt·a·[hninu](../h/hninu.md)·?. *‘I bed-bought.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-2))*
 >
 > Waʔ·t·<mark>k</mark>·atát·e·[nak](../n/nak.md)·e·ʔ. *‘I scratched myself.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
+>
+> Y·aʔ·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·ná:w·a·[raʔ](../r/ra_.md)·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 
 ----
 
