@@ -41,6 +41,7 @@ Mood prefixes:
 Other prefixes:
 - **[t·](prefixes/t.md)** \[duplicative\]
 - **[t·](prefixes/t.md)** \[cislocative\]
+- **[y·](prefixes/y.md)** \[translocative\]
 - **[atat·](prefixes/atat.md)** \[reflexive\]
 
 Aspect suffixes:
