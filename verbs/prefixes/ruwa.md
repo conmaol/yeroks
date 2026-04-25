@@ -6,7 +6,7 @@ Other spellings: maybe `ronwa·`
 
 Examples:
 
-> <mark>Ruwa</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘She likes him.’)*
+> <mark>Ruwa</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *‘She likes him.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 
 ----
 
