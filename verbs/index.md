@@ -7,6 +7,7 @@ Stems:
 - **[·hriʔ·](h/hri_.md)** *intr.sbj.* ‘break’
 - **[·itaʔ·](i/ita_.md)** *intr.obj.* ‘sleep’
 - **[·kv·](k/kv.md)** *tr.* ‘see’
+- **[·nak·](n/nak.md)** *tr.* ‘scratch’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
 - **[·ryo·](r/ryo.md)** *intr.* ‘die’
