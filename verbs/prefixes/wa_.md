@@ -16,7 +16,9 @@ Examples:
 >
 > <mark>Waʔ</mark>[tkahriʔneʔ](../h/hri_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It broke.’)*
 >
-> <mark>waʔ</mark>·[t·ha·yaʔk·eʔ](../y/ya_k.md) Sak [rao·aʔshareʔ](../nouns/a/a_share_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
+> <mark>Waʔ</mark>·[t·ha·yaʔk·eʔ](../y/ya_k.md) Sak [rao·aʔshareʔ](../nouns/a/a_share_.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘He broke Sak’s knife.’)*
+>
+> <mark>Waʔ</mark>·t·k·atát·e·[nak](../n/nak.md)·e·ʔ. *([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2) – ‘I scratched myself’)*
 
 Examples with the `wa·` allomorph:
 
