@@ -5,6 +5,7 @@ Stems:
 - **[·atyaʔtawi](a/atya_tawi.md)** ‘a shirt’
 - **[kaʔsere](k/ka_sere.md)** ‘a car’
 - **[·nakt·](n/nakt.md)** ‘a bed’
+- **[naw](n/naw.md)** ‘a swamp’
 - **[ʔniha](_/_niha.md)** *masc.* ‘a father’
 
 Prefixes:
