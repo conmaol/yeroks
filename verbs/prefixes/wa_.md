@@ -29,6 +29,8 @@ Examples with the `wa·` allomorph:
 Examples with the `·a·` allomorph:
 
 > Sak t<mark>a</mark>[hwkwatatweyaʔtvʔ](../a/ataweya_t.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-7) – ‘Sak broke in on me.’)*
+>
+> Y·<mark>aʔ</mark>·k·e·ná:w·a·[raʔ](../r/ra_.md)·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 
 ----
 
