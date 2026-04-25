@@ -10,6 +10,7 @@ Stems:
 - **[·nak·](n/nak.md)** *tr.* ‘scratch’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
 - **[·raʔ·](r/ra_.md)** *tr.* ‘approach’
+- **[·rik·](r/rik.md)** *tr.* ‘put together’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
 - **[·ryo·](r/ryo.md)** *intr.* ‘die’
 - **[·yaʔk·](y/ya_k.md)** *tr.* ‘break’
