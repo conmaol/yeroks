@@ -17,7 +17,9 @@ This rule seems to mainly involve the the punctual verb aspect suffix **[·ʔ](.
 > Waʔ·t·k·atát·e·[nak](../verbs/n/nak.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md). *‘I scratched myself.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-2))*
 
 
-### Cn → Cen
+### CC<sub>{n,r,w}</sub> → CeC
+
+When a consonant is immediately followed by a sonorant `r`, `n` or `w` (but not `y`), an `e` is inserted between the two.
 
 #### kn → ken
 
