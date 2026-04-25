@@ -4,7 +4,7 @@
 
 Allomorphs: 
 - `wa·` – before `h`?
-- `·a·` – non-initial?
+- `·a(?)·` – non-initial?
 
 Question: Are factive verbs always punctual?
 
@@ -26,7 +26,7 @@ Examples with the `wa·` allomorph:
 >
 > <mark>Wa</mark>[hoyeshuʔ](../y/yeshu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He laughed.’)*
 
-Examples with the `·a·` allomorph:
+Examples with the `·a(?)·` allomorph:
 
 > Sak t<mark>a</mark>[hwkwatatweyaʔtvʔ](../a/ataweya_t.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-7) – ‘Sak broke in on me.’)*
 >
