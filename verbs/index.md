@@ -9,6 +9,7 @@ Stems:
 - **[·kv·](k/kv.md)** *tr.* ‘see’
 - **[·nak·](n/nak.md)** *tr.* ‘scratch’
 - **[·nuhweʔ·](n/nuhwe_.md)** *tr.* ‘like’
+- **[·nyak·](n/nyak.md)** *intr.obj.* ‘get married’
 - **[·raʔ·](r/ra_.md)** *tr.* ‘approach’
 - **[·rik·](r/rik.md)** *tr.* ‘put together’
 - **[·rok·](r/rok.md)** *intr.sbj.* ‘chop’
