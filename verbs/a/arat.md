@@ -4,7 +4,10 @@
 
 Examples:
 
-- ʌká:rat<mark>e</mark>ʔ
+> [ʌ](../prefixes/u.md)·[k](../prefixes/k.md)·<mark>á:rat</mark>·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md). ‘I (will?) lay myself down.’
+
+
+
 - ʌ-k-[arat](../verbs/a/arat.md)-ʔ
 - FUT-1SG.AGT-lay oneself down-PUNCTUAL
 - ‘I (will?) lay myself down’ (Michelson 1989:43)
