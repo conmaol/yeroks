@@ -1,6 +1,7 @@
 # Verbs
 
 Stems:
+- **[·arat·](a/arat.md)** *intr.sbj.* ‘lay oneself down’
 - **[·asvʔ·](a/asv_.md)** *intr.sbj.* ‘fall’
 - **[·ataweyaʔt·](a/ataweya_t.md)** *tr.* ‘enter’
 - **[·hninu·](h/hninu.md)** *tr.* ‘buy’
