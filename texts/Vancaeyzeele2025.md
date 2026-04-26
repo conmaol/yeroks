@@ -61,7 +61,7 @@ ie.
 #### C<sub>i</sub>_C<sub>j</sub>C where C<sub>i</sub> ≠ /h, ʔ/, C<sub>j</sub> ≠ /h, s/
 
 - wak<mark>é</mark>nyaks
-- wak-nyak-s
+- wak-[nyak](../verbs/n/nyak.md)-s
 - 1SG.PAT-get married-HABITUAL
 - ‘I get married’ (Michelson 1989:42)
 
