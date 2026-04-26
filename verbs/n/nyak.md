@@ -4,7 +4,7 @@
 
 Examples:
 
-> [Wak](../prefixes/wak.md)·[é](../../phonologyepenthetic-e.md)·nyak·[s](../suffixes/s.md). *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+> [Wak](../prefixes/wak.md)·[é](../../phonology/epenthetic-e.md)·nyak·[s](../suffixes/s.md). *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 ----
 
