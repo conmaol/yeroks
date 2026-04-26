@@ -23,9 +23,11 @@ When a consonant is immediately followed by a sonorant `r`, `n` or `w` (but not 
 
 #### kn → ken
 
-> [Waʔ](../prefixes/wa_.md)·[k](../prefixes/k.md)·[e](../../phonology/epenthetic-e.md)·[nakt](../../nouns/n/nakt.md)·[a](../../phonology/epenthetic-a.md)·hninu·[ʔ](../suffixes/_.md). *([Ormston 1993](../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
+> [Waʔ](../verbs/prefixes/wa_.md)·[k](../verbs/prefixes/k.md)·[e](../../phonology/epenthetic-e.md)·[nakt](../../nouns/n/nakt.md)·[a](../../phonology/epenthetic-a.md)·hninu·[ʔ](../verbs/suffixes/_.md). *([Ormston 1993](../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
 > 
 > Y·aʔ·[k](../verbs/prefixes/k.md)·<mark>e</mark>·[ná:w](../nouns/n/naw.md)·a·raʔ·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-2))*
+>
+> [Wak](../verbs/prefixes/wak.md)·<mark>é</mark>·nyak·s. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 #### tn → ten
 
