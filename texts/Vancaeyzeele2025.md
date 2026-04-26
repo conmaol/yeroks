@@ -85,9 +85,9 @@ Maybe:
 #### C_/ʔ/ \# 
 
 - ʌká:rat<mark>e</mark>ʔ
-- ʌ-k-arat-ʔ
+- ʌ-k-[arat](../verbs/a/arat.md)-ʔ
 - FUT-1SG.AGT-lay oneself down-PUNCTUAL
-- ‘I lay myself down’ (Michelson 1989:43)
+- ‘I (will?) lay myself down’ (Michelson 1989:43)
 
 ie.
 - /tʔ#/ => /teʔ#/
