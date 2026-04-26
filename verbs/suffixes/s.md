@@ -17,6 +17,8 @@ Examples:
 > [Shekv](../k/kv.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘You see her.’)*
 >
 > T·é·k·e·[rik](../r/rik.md)·<mark>s</mark>. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+>
+> Wak·é·[nyak](../n/nyak.md)·<mark>s</mark>. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 ----
 
