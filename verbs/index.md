@@ -30,6 +30,7 @@ Agreement prefixes:
 - object
   - **[ho·](prefixes/ho.md)** \[masculine singular object, optional neuter singular subject\]
   - **[ro·](prefixes/ro.md)** \[masculine singular object\]
+  - **[wak·](prefixes/wak.md)** \[first-person singular\]
 - subject and object
   - **[hakw·](prefixes/hakw.md)** \[masculine singular subject, first-person singular object\]
   - **[ruwa·](prefixes/ruwa.md)** \[feminine singular subject, masculine singular object\]
