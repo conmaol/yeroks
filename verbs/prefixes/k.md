@@ -13,6 +13,8 @@ Examples:
 > Y·aʔ·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·ná:w·a·[raʔ](../r/ra_.md)·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-2))*
 >
 > T·é·<mark>k</mark>·[e](../../phonology/epenthetic-e.md)·[rik](../r/rik.md)·s. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+>
+> ʌ·<mark>k</mark>·[á:rat](../a/arat.md)·e·ʔ. *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 
 ----
 
