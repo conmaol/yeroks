@@ -124,4 +124,4 @@ Prothetic [i] emerges whenever the underlying form of a word would otherwise sur
 
 ----
 
-Back up to: [Texts](../index.md) | [Top](../../index.md)
+Back up to: [Texts](index.md) | [Top](../index.md)
