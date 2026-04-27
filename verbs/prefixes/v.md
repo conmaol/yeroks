@@ -8,7 +8,7 @@ Examples:
 >
 > <mark>v</mark>[tewasvʔneʔ](../a/asv_.md) *([Ormston 1993](../../texts/Ormston1993.md#ex-1-6) – ‘It will fall.’)*
 >
-> <mark>ʌ</mark>·k·[á:rat](../a/arat.md)·e·ʔ. *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+> <mark>ʌ</mark>·k·[á:rat](../a/arat.md)·e·ʔ. *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3c))*
 
 ----
 
