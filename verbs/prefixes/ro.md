@@ -8,7 +8,7 @@ Examples:
 
 > <mark>Ro</mark>·[taʔ](../i/ita_.md)·s. *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> <mark>Ro</mark>·[yoʔteʔ](../y/yo_tv.md). *‘He works.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
+> <mark>Ro</mark>·[yoʔt](../y/yo_tv.md)·eʔ. *‘He works.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
 >
 > Wa<mark>ho</mark>·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
