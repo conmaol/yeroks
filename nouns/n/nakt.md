@@ -2,13 +2,13 @@
 
 `·nakt·` ‘a bed’ is a [noun](../index.md).
 
-### [ka](../prefixes/ka.md)nakt[aʔ](../suffixes/a_.md)
+Examples:
 
-> [Waʔkhninuʔ](../../verbs/h/hninu.md) ne <mark>kanaktaʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bought the/a bed.’)* 
+> Waʔ·k·[hninu](../../verbs/h/hninu.md)·ʔ ne [ka](../prefixes/ka.md)·<mark>nakt</mark>·[aʔ](../suffixes/a_.md). *‘I bought the/a bed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-2))* 
 
-### Incorporated into a verb
+Incorporated examples:
 
-> [Wa?ke](../../verbs/h/hninu.md)<mark>nakt</mark>a[hninu?](../../verbs/h/hninu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-2) – ‘I bed-bought.’)*
+> Wa?·k·e·<mark>nakt</mark>·[a](../../phonology/epenthetic-a.md)·[hninu](../../verbs/h/hninu.md)·ʔ. *‘I bed-bought.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-2))*
 
 ----
 
