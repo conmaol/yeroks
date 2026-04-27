@@ -4,7 +4,7 @@
 
 Examples:
 
-> <mark>Wak</mark>·[é](../../phonology/epenthetic-e.md)·[nyak](../n/nyak.md)·s. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+> <mark>Wak</mark>·[é](../../phonology/epenthetic-e.md)·[nyak](../n/nyak.md)·s. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3b))*
 
 ----
 
