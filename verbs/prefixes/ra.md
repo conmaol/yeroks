@@ -4,9 +4,9 @@
 
 Examples:
 
-> <mark>Ra</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘He likes it.’)*
+> <mark>Ra</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *‘He likes it.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 >
-> Sak ra·nuhweʔ·s akotyaʔtawi. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-1) – ‘Sak likes her dress.’)*
+> Sak ra·nuhweʔ·s ako·tyaʔtawi. *‘Sak likes her dress.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 
 ----
 
