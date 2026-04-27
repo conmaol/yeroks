@@ -10,9 +10,9 @@ Examples:
 >
 > <mark>Ro</mark>·[yoʔt](../y/yo_tv.md)·eʔ. *‘He works.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
 >
-> Wa<mark>ho</mark>·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
+> Wa·<mark>ho</mark>·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> Wa<mark>ho</mark>·[yeshu](../y/yeshu.md)·ʔ. *‘He laughed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
+> Wa·<mark>ho</mark>·[yeshu](../y/yeshu.md)·ʔ. *‘He laughed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
 
 Transitive examples:
 
