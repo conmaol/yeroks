@@ -8,7 +8,7 @@ Examples:
 
 > [Ra](../prefixes/ra.md)·nuhweʔ·[s](../suffixes/s.md). *‘He likes it.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 >
-> Sak ra·nuhweʔ·s [akotyaʔtawi](../../nouns/a/atya_tawi.md). *‘Sak likes her dress.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
+> Sak ra·nuhweʔ·s ako·[tyaʔtawi](../../nouns/a/atya_tawi.md). *‘Sak likes her dress.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 >
 > [Ye](../prefixes/ye.md)·nuhweʔ·s. *‘She likes it.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 >
