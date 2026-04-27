@@ -101,23 +101,25 @@ ie.
 - /wʔ#/ => /weʔ#/ ???
 
 
-### Epenthetic \[a\] – ‘stem-joiner’
+### Epenthetic \[a\] – ‘stem-joiner’ <a id="slide-4"></a>
 
-Epenthetic [a] (‘stem-joiner’) is inserted inbetween any heteromorphemic consonant
-cluster within the verb stem, i.e. ‘between an incorporated noun root and a
-following verb root or between a verb root and a following derivational suffix such as the DISTRIBUTIVE or INSTRUMENTAL’ (Michelson 1989:48):
-tyeya ʔtakè:ru
-t-ye-yaʔt-kehru-Ø
-CISLOCATIVE-FEM.SG.AGT-body-spread around-STATIVE
-‘I break, smash stones’ (Michelson 1989:48)
+Epenthetic \[a\] (‘stem-joiner’) is inserted inbetween any heteromorphemic consonant cluster within the verb stem, 
+
+i.e. ‘between an incorporated noun root and a following verb root or between a verb root and a following derivational suffix such as the DISTRIBUTIVE or INSTRUMENTAL’ (Michelson 1989:48):
+
+- tyeya ʔtakè:ru
+- t-ye-[yaʔt](../nouns/y/ya_t.md)-[kehru](../verbs/k/kehru.md)-Ø
+- CISLOCATIVE-FEM.SG.AGT-body-spread around-STATIVE
+- ‘I break, smash stones’ (Michelson 1989:48)
 
 ### Prothetic \[i\]
 
 Prothetic [i] emerges whenever the underlying form of a word would otherwise surface with less than two syllables (morphological minimality condition)
-(Michelson 1989:38)
-íkya ʔks
-k-yaʔk-s
-‘I cut it’ (Hagstrom 1997:2)
+(Michelson 1989:38):
+
+- íkya ʔks
+- k-yaʔk-s
+- ‘I cut it’ (Hagstrom 1997:2)
 
 
 ----
