@@ -29,8 +29,7 @@ Agreement prefixes:
   - **[k·](prefixes/k.md)** \[first person singular subject\]
   - **[t·](prefixes/t.md)** \[first person singular subject\]
 - object
-  - **[ho·](prefixes/ho.md)** \[masculine singular object, optional neuter singular subject\]
-  - **[ro·](prefixes/ro.md)** \[masculine singular object\]
+  - **[ro·](prefixes/ro.md)** \[masculine singular object, optional neuter singular subject\] (allomorph: `ho·`)
   - **[wak·](prefixes/wak.md)** \[first-person singular\]
 - subject and object
   - **[hakw·](prefixes/hakw.md)** \[masculine singular subject, first-person singular object\]
