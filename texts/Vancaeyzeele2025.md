@@ -58,7 +58,7 @@ ie.
 - /yr/, /yn/, /yw/ ???
 - /wr/, /wn/, /ww/ ???
 
-#### C<sub>i</sub>_C<sub>j</sub>C where C<sub>i</sub> ≠ /h, ʔ/, C<sub>j</sub> ≠ /h, s/
+#### C<sub>i</sub>_C<sub>j</sub>C where C<sub>i</sub> ≠ /h, ʔ/, C<sub>j</sub> ≠ /h, s/ <a id="slide-3b"></a>
 
 - wak<mark>é</mark>nyaks
 - wak-[nyak](../verbs/n/nyak.md)-s
@@ -82,7 +82,7 @@ Maybe:
   - ChC
   - CsC
 
-#### C_/ʔ/ \# 
+#### C_/ʔ/ \# <a id="slide-3c"></a>
 
 - ʌká:rat<mark>e</mark>ʔ
 - ʌ-k-[arat](../verbs/a/arat.md)-ʔ
