@@ -27,7 +27,7 @@ When a consonant is immediately followed by a sonorant `r`, `n` or `w` (but not 
 > 
 > Y·aʔ·[k](../verbs/prefixes/k.md)·<mark>e</mark>·[ná:w](../nouns/n/naw.md)·a·raʔ·neʔ. *‘I approached the swamp.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-2))*
 >
-> [Wak](../verbs/prefixes/wak.md)·<mark>é</mark>·[nyak](../verbs/n/nyak.md)·s. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
+> [Wak](../verbs/prefixes/wak.md)·<mark>é</mark>·[nyak](../verbs/n/nyak.md)·s. *‘I get married.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3b))*
 
 #### tn → ten
 
