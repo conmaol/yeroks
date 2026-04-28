@@ -26,8 +26,7 @@ Agreement prefixes:
   - **[ye·](prefixes/ye.md)** \[feminine singular subject (and optional neuter singular object)\]
   - **[ka·](prefixes/ka.md)** \[neuter singular subject\]
   - **[w·](prefixes/w.md)** \[neuter singular subject\]
-  - **[k·](prefixes/k.md)** \[first person singular subject\]
-  - **[t·](prefixes/t.md)** \[first person singular subject\]
+  - **[k·](prefixes/k.md)** \[first person singular subject\] (possible dialectal variant `t·`)
 - object
   - **[ro·](prefixes/ro.md)** \[masculine singular object, optional neuter singular subject\] (allomorph: `ho·`)
   - **[wak·](prefixes/wak.md)** \[first-person singular\]
