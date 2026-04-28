@@ -16,6 +16,10 @@ Examples:
 >
 > ʌ·<mark>k</mark>·[á:rat](../a/arat.md)·e·ʔ. *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3c))*
 
+Note this example where `k·` seems to surface as `t·`:
+
+> <mark>T</mark>·[yvʔtho](../y/yv_tho.md)·s. *‘I plant’. ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
+
 ----
 
 Back up to: [Verbs](../index.md) | [Top](../../index.md)
