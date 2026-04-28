@@ -2,17 +2,11 @@
 
 `·yoʔtv·` ‘work’ is an intransitive, object-agreement [verb](../index.md).
 
-### [wa](../prefixes/wa_.md)hoyoʔtv[ʔ](../suffixes/_.md) (factual punctual)
+Examples:
 
-#### wa[ho](../prefixes/ho.md)yoʔtv?
-
-> <mark>Wahoyoʔtvʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He worked.’)*
-
-### ·yoʔt[eʔ](../suffixes/e_.md) (habitual)
-
-#### [ro](../prefixes/ro.md)yoʔteʔ ‘he works’
-
-> <mark>Royoʔteʔ</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He works.’)*
+> [Wa](../prefixes/wa_.md)·[ho](../prefixes/ro.md)·yoʔtv·[ʔ](../suffixes/_.md). *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
+> 
+> [Ro](../prefixes/ro.md)·yoʔt·[eʔ](../suffixes/s.md). *(‘He works.’ [Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
 
 ----
 
