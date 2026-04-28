@@ -2,11 +2,9 @@
 
 `·rok·` ‘chop’ is an intransitive, subject-agreement [verb](../index.md).
 
-### ·rok[s](../suffixes/s.md) (habitual)
+Examples:
 
-#### [ye](../prefixes/ye.md)roks — ‘she chops’
-
-> <mark>Yeroks</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) — ‘She chops.’)*
+> [Ye](../prefixes/ye.md)·rok·[s](../suffixes/s.md). *‘She chops.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 
 ----
 
