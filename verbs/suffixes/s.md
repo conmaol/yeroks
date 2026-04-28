@@ -12,7 +12,7 @@ Examples:
 >
 > Ye·[rok](../r/rok.md)·<mark>s</mark>. *‘She chops.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> [Rota?](../i/ita_.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He sleeps.’)*
+> Ro·[ta?](../i/ita_.md)·<mark>s</mark>. *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > [Shekv](../k/kv.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘You see her.’)*
 >
