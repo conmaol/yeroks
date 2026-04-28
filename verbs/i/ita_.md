@@ -2,11 +2,9 @@
 
 `·itaʔ·` ‘sleep’ is an intransitive, object agreement [verb](../index.md).
 
-### ·itaʔ[s](../suffixes/s.md) (habitual)
+Examples:
 
-#### [ro](../prefixes/ro.md)taʔs ‘he sleeps’
-
-> <mark>Rotaʔs</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He sleeps.’)*
+> [Ro](../prefixes/ro.md)·taʔ·[s](../suffixes/s.md). *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 
 ----
 
