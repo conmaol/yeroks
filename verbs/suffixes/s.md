@@ -10,7 +10,7 @@ Examples:
 >
 > T·[yvʔtho](../y/yv_tho.md)·<mark>s</mark>. *‘I plant.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> [Yerok](../r/rok.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘She chops.’)*
+> Ye·[rok](../r/rok.md)·<mark>s</mark>. *‘She chops.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > [Rota?](../i/ita_.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘He sleeps.’)*
 >
