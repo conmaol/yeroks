@@ -8,7 +8,7 @@ Examples:
 
 > Sak ra·[nuhweʔ](../n/nuhwe_.md)·<mark>s</mark> akotyaʔtawi. *‘Sak likes her dress’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 >
-> [Tyvʔtho](../y/yv_tho.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘I plant’.)*
+> T·[yvʔtho](../y/yv_tho.md)<mark>s</mark>. *‘I plant.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > [Yerok](../r/rok.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-3) – ‘She chops.’)*
 >
