@@ -14,7 +14,7 @@ Examples:
 >
 > Ro·[ta?](../i/ita_.md)·<mark>s</mark>. *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> [Shekv](../k/kv.md)<mark>s</mark>. *([Ormston 1993](../../texts/Ormston1993.md#ex-1-4) – ‘You see her.’)*
+> She·[kv](../k/kv.md)·<mark>s</mark>. *‘You see her.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 >
 > Ra·[torat](../a/atorat.md)·<mark>s</mark>. *‘He hunts. He is a hunter.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
