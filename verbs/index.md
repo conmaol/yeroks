@@ -4,6 +4,7 @@ Stems:
 - **[·arat·](a/arat.md)** *intr.sbj.* ‘lay oneself down’
 - **[·asvʔ·](a/asv_.md)** *intr.sbj.* ‘fall’
 - **[·ataweyaʔt·](a/ataweya_t.md)** *tr.* ‘enter’
+- **[·atorat·](a/atorat.md)** *intr.sbj.* ‘hunt’
 - **[·hninu·](h/hninu.md)** *tr.* ‘buy’
 - **[·hriʔ·](h/hri_.md)** *intr.sbj.* ‘break’
 - **[·itaʔ·](i/ita_.md)** *intr.obj.* ‘sleep’
