@@ -166,12 +166,74 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 
 > [wa?·t·ha·ya?k·e?](../verbs/y/ya_k.md) Sak [rao·a?share?](../nouns/a/a_share_.md) ‘he broke Sak’s knife’
 
-
-
-
-
-
 ### 1.3. The issues
+
+#### 1.3.1. The aspect-agreement relationship
+
+(1.14)<a id="ex-1-14"></a>
+
+(a)
+
+> (i) ratorats
+> 
+> ra-[atorat](../verbs/a/atorat.md)-s
+> 
+> MsS-hunt-hab
+> 
+> ‘he hunts, he is a hunter’
+>
+> 
+> (ii) vhatorate?
+> 
+> v -ha-atorat -e?
+> 
+> fut-MsS-hunt-punc
+>
+> 
+> (iii) rotoratu
+> 
+> ro-atorat-u
+> 
+> MsO-hunt -stat
+
+b)
+
+i)
+rarastha?
+ra-rast-ha?
+MsS-draw-punc
+"he is an artist. he draws"
+ii)
+waharaste?
+wa-ha-rast-e?
+fact- MsS-draw -pune
+"he drew"
+iii) rorastu
+ro-rast-u
+MsO-draw -stat
+
+i) kaskaneks
+k-askanek-s
+IsS-wish-hab
+"I wish"
+
+ii) akaskaneke?
+a-k-askanek-e?
+opt-I sS-wish-punc
+"I should wish" (used as a hint to be askcd.
+to get to do somethi ng)
+
+iii) wakaskaneku
+wak-askanek-u
+1 sO-wish-stat
+"I have wished" (the desire is gone now)
+
+
+All of the verbs in (1.14) are intransitive. Each group of examples shows the same verb in the habitual aspect (i), the punctual aspect (ii) and the stative aspect (iii). Note that in the habitual and the punctual, the verb shows the same agreement morpheme, but in the stative, a differcnt agreement morpheme appears. The agreements which appear in the habitual and the punctual are the ones traditionally called “subjective” agreement. and those which appear in the stative are the “objective” agreements, mentioned in section 1.1. It seems that the stative aspect causes a switch from subjective to objective agreement.
+
+
+
+
 
 ### 1.4. Conclusion
 
