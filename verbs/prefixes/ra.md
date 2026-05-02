@@ -7,6 +7,8 @@ Examples:
 > <mark>Ra</mark>·[nuhweʔ](../n/nuhwe_.md)·s. *‘He likes it.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
 >
 > Sak ra·nuhweʔ·s ako·tyaʔtawi. *‘Sak likes her dress.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-1))*
+>
+> <mark>Ra</mark>·[torat](../a/atorat.md)·s. *‘He hunts. He is a hunter.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 ----
 
