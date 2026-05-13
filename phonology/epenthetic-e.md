@@ -10,6 +10,8 @@ This rule seems to mainly involve the the punctual verb aspect suffix **[·ʔ](.
 
 > Thikv kaʔsere v·ho·ryo·[ht](../verbs/suffixes/ht.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md) ne yaʔniha. *‘That car will be the death of your father.’ ([Ormston 1993](../texts/Ormston1993.md#ex-1-4))*
 >
+> v·ha·[torat](../verbs/a/atorat.md)·<mark>e</mark>·[?](../verbs/suffixes/_.md). *‘He will hunt.’ ([Ormston 1993](../texts/Ormston1993.md#ex-1-14))*
+>
 > ʌ·k·[á:rat](../verbs/a/arat.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md). *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-3c))*
 
 #### kʔ# → keʔ#
