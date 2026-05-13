@@ -174,21 +174,9 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 
 (a)
 
-> (i) ratorats
+> (i) ratorats / ra-[atorat](../verbs/a/atorat.md)-s / MsS-hunt-hab / ‘he hunts, he is a hunter’
 > 
-> ra-[atorat](../verbs/a/atorat.md)-s
-> 
-> MsS-hunt-hab
-> 
-> ‘he hunts, he is a hunter’
->
-> 
-> (ii) vhatorate?
-> 
-> v -ha-atorat -e?
-> 
-> fut-MsS-hunt-punc
->
+> (ii) vhatorate? / v -ha-atorat -e? / fut-MsS-hunt-punc / ‘he will hunt’
 > 
 > (iii) rotoratu
 > 
