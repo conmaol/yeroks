@@ -180,21 +180,15 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 > 
 > (iii) rotoratu / ro-atorat-u / MsO-hunt-stat / ‘he has hunted’
 
-b)
+(b)
 
-i)
-rarastha?
-ra-rast-ha?
-MsS-draw-punc
-"he is an artist. he draws"
-ii)
-waharaste?
-wa-ha-rast-e?
-fact- MsS-draw -pune
-"he drew"
-iii) rorastu
-ro-rast-u
-MsO-draw -stat
+> (i) rarastha? / ra-[rast](../verbs/r/rast.md)-ha? / MsS-draw-punc / ‘he is an artist. he draws’
+> 
+> (ii) waharaste? / wa-ha-rast-e? / fact-MsS-draw-punc ‘he drew’
+> 
+> (iii) rorastu / ro-rast-u / MsO-draw-stat / ‘he has drawn’
+
+(c)
 
 i) kaskaneks
 k-askanek-s
