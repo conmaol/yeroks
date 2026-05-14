@@ -8,7 +8,7 @@ Examples:
 > 
 > [v](../prefixes/v.md)·[ha](../prefixes/ra.md)·torat·[e](../../phonology/epenthetic-e.md)·[?](../suffixes/_.md). *‘He will hunt.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
-> rotoratu / ro-atorat-u / MsO-hunt-stat *‘He has hunted.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> [Ro](../prefixes/ro.md)·torat·[u](../suffixes/u.md). *‘He has hunted.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 ----
 
