@@ -4,11 +4,11 @@
 
 Examples:
 
-> rarastha? / ra-rast-ha? / MsS-draw-punc / *‘he is an artist. he draws’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> Ra·rast·haʔ. / ra-rast-ha? / MsS-draw-punc / *‘He is an artist. He draws.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
-> waharaste? / wa-ha-rast-e? / fact-MsS-draw-punc *‘he drew’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> Wa·ha·rast·e·ʔ. / wa-ha-rast-e? / fact-MsS-draw-punc *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
-> rorastu / ro-rast-u / MsO-draw-stat / *‘he has drawn’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> Ro·rast·u. / ro-rast-u / MsO-draw-stat / *‘He has drawn.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 ----
 
