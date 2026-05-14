@@ -13,6 +13,8 @@ Examples:
 > Wa·<mark>ho</mark>·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > Wa·<mark>ho</mark>·[yeshu](../y/yeshu.md)·ʔ. *‘He laughed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
+>
+> <mark>Ro</mark>·[torat](../a/atorat.md)·u. *‘He has hunted.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 Transitive examples:
 
