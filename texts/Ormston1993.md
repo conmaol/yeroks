@@ -178,11 +178,7 @@ Finally, the aspect position is also a heterogeneous cIass, occupied by the aspe
 > 
 > (ii) vhatorate? / v -ha-atorat -e? / fut-MsS-hunt-punc / ‘he will hunt’
 > 
-> (iii) rotoratu
-> 
-> ro-atorat-u
-> 
-> MsO-hunt -stat
+> (iii) rotoratu / ro-atorat-u / MsO-hunt-stat / ‘he has hunted’
 
 b)
 
