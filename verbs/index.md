@@ -51,6 +51,7 @@ Aspect suffixes:
 - **[·s](suffixes/s.md)** \[habitual aspect\]
 - **[·eʔ](suffixes/e_.md)** \[habitual aspect\]
 - **[·ʔ](suffixes/_.md)** \[punctual aspect\] (allomorphs: `·neʔ`)
+- **[·u](suffixes/u.md)** \[stative aspect\]
 
 Other suffixes:
 - **[·ht·](suffixes/ht.md)** \[causative\]
