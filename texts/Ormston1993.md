@@ -212,6 +212,14 @@ All of the verbs in (1.14) are intransitive. Each group of examples shows the sa
 > When used with the stative aspect suffix *-u*, an intransitive subject agreement verb becomes an intransitive object agreement verb — the subject is demoted to object. G
 > However, intransitive object agreement verbs remain the same.
 
+#### 1.3.2. The mood-aspect relationship
+
+> A verb with a habitual aspect suffix MUST NOT have a mood prefix (unless ‘overruled’ by a continuative suffix).
+>
+> A verb with a punctual aspect suffix MUST have a mood prefix.
+
+
+
 ### 1.4. Conclusion
 
 ## Chapter 2 – “Aspect” and agreement
