@@ -13,8 +13,12 @@ Examples:
 > Wa·<mark>ho</mark>·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > Wa·<mark>ho</mark>·[yeshu](../y/yeshu.md)·ʔ. *‘He laughed.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
+
+Examples with stative aspect (demoted subject): 
+
+> <mark>Ro</mark>·[torat](../a/atorat.md)·[u](../suffixes/u.md). *‘He has hunted.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
-> <mark>Ro</mark>·[torat](../a/atorat.md)·u. *‘He has hunted.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> <mark>Ro</mark>·[rast](../r/rast.md)·u. *‘He has drawn.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 Transitive examples:
 
