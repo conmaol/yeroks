@@ -8,7 +8,7 @@ Examples:
 >
 > Wa·[ha](../prefixes/ra.md)·rast·e·ʔ. *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
-> [Ro](../prefixes/ro.md)·rast·u. *‘He has drawn.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> [Ro](../prefixes/ro.md)·rast·[u](../suffixes/u.md). *‘He has drawn.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 ----
 
