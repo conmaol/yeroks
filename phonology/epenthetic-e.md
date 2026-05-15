@@ -12,6 +12,8 @@ This rule seems to mainly involve the the punctual verb aspect suffix **[·ʔ](.
 >
 > v·ha·[torat](../verbs/a/atorat.md)·<mark>e</mark>·[?](../verbs/suffixes/_.md). *‘He will hunt.’ ([Ormston 1993](../texts/Ormston1993.md#ex-1-14))*
 >
+> Wa·ha·[rast](../verbs/r/rast.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md). *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+>
 > ʌ·k·[á:rat](../verbs/a/arat.md)·<mark>e</mark>·[ʔ](../verbs/suffixes/_.md). *‘I (will?) lay myself down.’ ([Vancaeyzeele 2025](../texts/Vancaeyzeele2025.md#slide-3c))*
 
 #### kʔ# → keʔ#
