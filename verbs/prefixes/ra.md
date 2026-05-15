@@ -17,6 +17,8 @@ Examples:
 > <mark>Ra</mark>·[rast](../r/rast.md)·haʔ. *‘He is an artist. He draws.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
 > Wa·<mark>ha</mark>·[rast](../r/rast.md)·e·ʔ. *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+> 
+> A·<mark>ha</mark>·[rast](../r/rast.md)·ha·k·e·?. *‘He should become an artist.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-19))*
 
 ----
 
