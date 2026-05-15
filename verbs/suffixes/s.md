@@ -2,7 +2,7 @@
 
 `·s` is a [verb](../index.md) suffix, marking habitual aspect.
 
-See also: **[·eʔ](e_.md)**
+Allomorphs: `·eʔ`, `·haʔ`
 
 Examples:
 
@@ -12,11 +12,13 @@ Examples:
 >
 > Ye·[rok](../r/rok.md)·<mark>s</mark>. *‘She chops.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
-> Ro·[ta?](../i/ita_.md)·<mark>s</mark>. *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
+> Ro·[taʔ](../i/ita_.md)·<mark>s</mark>. *‘He sleeps.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > She·[kv](../k/kv.md)·<mark>s</mark>. *‘You see her.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 >
 > Ra·[torat](../a/atorat.md)·<mark>s</mark>. *‘He hunts. He is a hunter.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+>
+> Ra·[rast](../r/rast.md)·<mark>haʔ</mark>. *‘He is an artist. He draws.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
 > T·é·k·e·[rik](../r/rik.md)·<mark>s</mark>. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 >
