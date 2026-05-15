@@ -49,8 +49,7 @@ Other prefixes:
 - **[atat·](prefixes/atat.md)** \[reflexive\]
 
 Aspect suffixes:
-- **[·s](suffixes/s.md)** \[habitual aspect\]
-- **[·eʔ](suffixes/e_.md)** \[habitual aspect\]
+- **[·s](suffixes/s.md)** \[habitual aspect\] (allomorphs: `·eʔ`, `·haʔ`)
 - **[·ʔ](suffixes/_.md)** \[punctual aspect\] (allomorphs: `·neʔ`)
 - **[·u](suffixes/u.md)** \[stative aspect\]
 
