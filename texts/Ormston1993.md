@@ -218,7 +218,7 @@ All of the verbs in (1.14) are intransitive. Each group of examples shows the sa
 >
 > A verb with a punctual aspect suffix MUST have a mood prefix.
 
-( 1.19)
+(1.19)<a id="ex-1-19"></a>
 
 (a) complex habituai with mood prefixes
 
