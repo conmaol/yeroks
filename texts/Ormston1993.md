@@ -218,6 +218,13 @@ All of the verbs in (1.14) are intransitive. Each group of examples shows the sa
 >
 > A verb with a punctual aspect suffix MUST have a mood prefix.
 
+( 1.19)
+
+(a) complex habituai with mood prefixes
+
+(i) aharasthake? / a-ha-[rast](../verbs/r/rast.md)-ha-k-e? / opt-MsS-draw-hab-cont-punc / "he should become an artist"
+
+(ii) kvtho vhatyvsheke? / here v -ha-atyv -s-hek-e? / fut-MsS-sitlstay-hab-cont-punc / "here will be his place to sit, he will sit here, in general"
 
 
 ### 1.4. Conclusion
