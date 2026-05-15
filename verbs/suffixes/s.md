@@ -16,6 +16,8 @@ Examples:
 >
 > She·[kv](../k/kv.md)·<mark>s</mark>. *‘You see her.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-4))*
 >
+> Ro·[yoʔt](../y/yo_tv.md)·<mark>eʔ</mark>. *‘He works.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-5))*
+>
 > Ra·[torat](../a/atorat.md)·<mark>s</mark>. *‘He hunts. He is a hunter.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
 > Ra·[rast](../r/rast.md)·<mark>haʔ</mark>. *‘He is an artist. He draws.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
