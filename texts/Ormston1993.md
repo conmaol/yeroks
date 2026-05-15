@@ -209,10 +209,8 @@ wak-askanek-u
 
 All of the verbs in (1.14) are intransitive. Each group of examples shows the same verb in the habitual aspect (i), the punctual aspect (ii) and the stative aspect (iii). Note that in the habitual and the punctual, the verb shows the same agreement morpheme, but in the stative, a differcnt agreement morpheme appears. The agreements which appear in the habitual and the punctual are the ones traditionally called “subjective” agreement. and those which appear in the stative are the “objective” agreements, mentioned in section 1.1. It seems that the stative aspect causes a switch from subjective to objective agreement.
 
-> When used with the stative aspect suffix *-u*, an intransitive subject agremment verb becomes an intransitive object agreement verb — the subject is demoted to object.
-
-
-
+> When used with the stative aspect suffix *-u*, an intransitive subject agreement verb becomes an intransitive object agreement verb — the subject is demoted to object. G
+> However, intransitive object agreement verbs remain the same.
 
 ### 1.4. Conclusion
 
