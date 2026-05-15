@@ -9,6 +9,10 @@ Examples:
 > [Wa](../prefixes/wa_.md)·[ha](../prefixes/ra.md)·rast·[e](../../phonology/epenthetic-e.md)·[ʔ](../suffixes/_.md). *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
 > [Ro](../prefixes/ro.md)·rast·[u](../suffixes/u.md). *‘He has drawn.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+>
+> A·[ha](../prefixes/ra.md)·rast·[ha](../suffixes/s.md)·k·e·?. *‘He should become an artist.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-19))*
+
+
 
 ----
 
