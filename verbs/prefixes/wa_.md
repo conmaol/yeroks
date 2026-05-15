@@ -25,6 +25,8 @@ Examples with the `wa·` allomorph:
 > <mark>Wa</mark>·ho·[yoʔtv](../y/yo_tv.md)·ʔ. *‘He worked.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-3))*
 >
 > <mark>Wa</mark>[hoyeshuʔ](../y/yeshu.md). *([Ormston 1993](../../texts/Ormston1993.md#ex-1-5) – ‘He laughed.’)*
+>
+> <mark>Wa</mark>·ha·[rast](../r/rast.md)·e·ʔ. *‘He drew.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 
 Examples with the `·a(?)·` allomorph:
 
