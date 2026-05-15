@@ -2,7 +2,7 @@
 
 `·s` is a [verb](../index.md) suffix, marking habitual aspect.
 
-Allomorphs: `·eʔ`, `·haʔ`
+Allomorphs: `·eʔ`, `·ha(ʔ)`
 
 Examples:
 
@@ -21,6 +21,8 @@ Examples:
 > Ra·[torat](../a/atorat.md)·<mark>s</mark>. *‘He hunts. He is a hunter.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
 >
 > Ra·[rast](../r/rast.md)·<mark>haʔ</mark>. *‘He is an artist. He draws.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-14))*
+>
+> A·ha·[rast](../r/rast.md)·<mark>ha</mark>·k·e·?. *‘He should become an artist.’ ([Ormston 1993](../../texts/Ormston1993.md#ex-1-19))*
 >
 > T·é·k·e·[rik](../r/rik.md)·<mark>s</mark>. *‘I put them together.’ ([Vancaeyzeele 2025](../../texts/Vancaeyzeele2025.md#slide-3))*
 >
